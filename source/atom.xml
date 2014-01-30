@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Tamas Nagy</title>
+ <link href="http://citizenspress.github.io/atom.xml" rel="self"/>
+ <link href="http://citizenspress.github.io/"/>
+ <updated>2014-01-29T21:50:40-05:00</updated>
+ <id>http://citizenspress.github.io/</id>
+ <author>
+   <name>Citizen's Press</name>
+   <email></email>
+ </author>
+ 
+   <entry>
+     <title>First Post</title>
+     <link href="http://tamaslnagy.github.io/2014/First-Post/"/>
+     <updated>2014-01-29T00:00:00-05:00</updated>
+     <id>http://citizenspress.github.io/2014/First-Post</id>
+     <content type="html"></content>
+   </entry>
+ 
+</feed>

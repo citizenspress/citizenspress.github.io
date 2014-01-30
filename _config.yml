@@ -1,0 +1,28 @@
+# Blog information
+name: Citizen's Press
+description: 
+meta-description: "Citizen's Press"
+url: http://citizenspress.github.io
+
+# Author
+author:
+  name: Citizen's Press
+  email: 
+  gravatar: 
+  github: http://github.com/citizenspress/
+  500px: 
+  twitter: 
+
+include:
+- .nojekyll
+
+permalink: /:year/:title/ 
+paginate: 15
+
+destination: source/
+markdown: pandoc
+pandoc:
+  skip: true
+  flags: '--smart --mathjax --filter pandoc-citeproc'
+
+source_url: http://github.com/citizenspress/citizenspress.github.io
