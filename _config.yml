@@ -1,2 +1,11 @@
-pygments: false
-lsi: false
+
+name: "Graham Cox"
+description: "Graham's writings"
+
+url: "http://citizenspress.github.io"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
+pygments: true
