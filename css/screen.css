@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #edf1f3;
+  background-color: #ffffff;
   color: #222;
   font-family: 'Times New Roman', 'Times', serif;
   line-height: 1.4em;
@@ -13,7 +13,7 @@ body {
 }
 
 a:link {
-  color: #336699;
+  color: #660000;
   text-decoration: none;
 }
 a:visited {
