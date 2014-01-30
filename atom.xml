@@ -3,22 +3,26 @@ layout: nil
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Tamas Nagy</title>
- <link href="http://citizenspress.github.io/atom.xml" rel="self"/>
- <link href="http://citizenspress.github.io/"/>
+ <title>Graham Cox</title>
+ <link href="https://citizenspress.github.io/atom.xml" rel="self"/>
+ <link href="https://citizenspress.github.io/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://citizenspress.github.io/</id>
  <author>
-   <name>Citizens Press</name>
-   <email></email>
+   <name>Graham Cox</name>
+   <email>gcox@leftnews.org</email>
  </author>
  {% for post in site.posts limit:10 %}
-   <entry>
-     <title>{{ post.title | xml_escape }}</title>
-     <link href="http://citizenspress.github.io{{ post.url }}"/>
-     <updated>{{ post.date | date_to_xmlschema }}</updated>
-     <id>http://citizenspress.github.io{{ post.id }}</id>
-     <content type="html">{{ post.content | xml_escape }}</content>
-   </entry>
+ <entry>
+   <title>{{ post.title }}</title>
+   <link href="https://al3x.net{{ post.url }}"/>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <id>http://citizenspress.github.io/{{ post.id }}</id>
+   <content type="html">{{ post.content | xml_escape }}</content>
+   <author>
+     <name>Graham Cox</name>
+     <uri>https://citizenspress.github.io/about.html</uri>
+   </author>
+ </entry>
  {% endfor %}
 </feed>

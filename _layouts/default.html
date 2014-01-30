@@ -1,17 +1,32 @@
-<!doctype html>
-<html>
-  {% include head.html %}
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <meta content="en-us" http-equiv="Content-Language" />
+    <meta content="The online writing of Alex Payne" name="description" />
+    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link href="/css/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
+    <link rel="alternate" type="application/atom+xml" title="Alex Payne - Atom" href="/atom.xml" />
+    <link href="http://www.clickpass.com/openid_server" rel="openid.server" />
+    <link href="http://clickpass.com/public/al3x" rel="openid.delegate" />
+    <title>Graham Cox &mdash; {{ page.title }}</title>
+  </head>
   <body>
-    <div class="wrapper">
-      <header class="banner">
-        <a href="/"><i class="fa fa-plus-circle fa-2x"></i> Citizens Press</a>
-      </header>
-      <section>
-		    {{ content }}
-      </section>
-      <footer>
-        {% include nav.html %}
-        Copyright &copy; 2013-2014 Citizens Press - Powered by <a href="http://jekyllrb.com">Jekyll</a> and <a href="http://getbootstrap.com">Bootstrap</a>
+    <header>
+      <h1 id="title">
+        <a href="/about.html" title="About">This is Graham Cox.</a>  <a href="/" title="Home">This is his writing.</a>.
+      </h1>
+      <h2 id="subtitle">
+        <a href="/books_talks.html">These are his talks and other work</a>.
+      </h2>
+    </header>
+    <div id="wrapper">
+      {{ content }}
+      <footer id="footer">
+        <a href="/" title="Home">Home</a> &bull;
+        <a href="/about.html" title="About the author and site">About</a> &bull;
+        <a href="/books_talks.html" title="Talks">Talks</a>
       </footer>
     </div>
   </body>

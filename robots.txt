@@ -1,4 +1,0 @@
-Sitemap: http://citizenspress.github.com/sitemap.xml
-
-User-agent: *
-Disallow: /assets/images/
