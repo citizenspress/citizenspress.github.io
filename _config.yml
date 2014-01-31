@@ -1,6 +1,6 @@
 title:            Graham Cox
-description:      A place for developing writings.
-logo:             
+description:      Writing and Technology
+logo:             logo.png
 disqus_shortname: 
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
@@ -10,7 +10,7 @@ url:              http://citizenspress.github.io
 owner:
   name:           Graham Cox
   avatar:         
-  email:          
+  email:          gcox@citizenspress.org
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
