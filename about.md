@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/
-title: About the Me
+title: About This Project
 tags: [About, Projects]
 modified: 2013-09-13
 image:
