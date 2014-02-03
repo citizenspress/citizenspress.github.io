@@ -19,7 +19,7 @@ Software has a growing impact on the economy and the broader society. From conce
 
 Legislation regulates "intellectual property" and copyright of the code, funding directs and/or limits its development. Hackers write code and have their own politics about sharing and community. In many cases software developers are workers and this adds another dimension to that politics. End users put software into practise to ends sometimes not envisioned by the creators and owners.
 
-Just as in the production of art or building cities, software development lives in a dynamic ecosystem and history that expresses itself with all the accompanying internal logic and contradictions.
+Just as in the production of art or building cities, software development lives in a dynamic ecosystem of history and politics that expresses itself with its own internal logic and accompanying contradictions. The end result can range from the useful to the inane, from the closed and secretive to the open and beautiful. It can help expand freedom for those that use it or be used to oppress.
 
 As software and "information technology" become ever more integral to daily life and its use more normalised and obscured it becomes increasingly important to understand its political economy. Of course, there are undisputed masters of this domain of software politics -- just as there are within any major component of society and the economy. However, it is the popular understanding and application of this analysis that interests me. The main question is how can workers become empowered both in and outside programming circles to shape this politics and advance society in a direction that is informed, enlightened, democratic and in the interests of those that work for fairness and progress.
 
