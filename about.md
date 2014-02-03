@@ -17,7 +17,7 @@ I regularly post on other websites. However, I have never felt those spaces allo
 
 At the beginning, I saw software as a tool to support the projects I was working on. However, I did not know at the time that the new tools I set upon to learn would have such a major impact on my life outside of just using them for this or that project. Learning to code and using some of the tools in GNU/Linux (can someone really learn all of them?) have allowed me to learn the good kind of patience and think more strategically and clearly about problems outside of the software universe.
 
-# Politics and Software Development and Implementation
+# Politics of Software Development and Implementation
 
 There is an important political economy to software.
 
