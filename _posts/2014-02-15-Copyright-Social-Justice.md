@@ -13,7 +13,7 @@ share: true
 # Raising Consciousness on Copyright Issues
 
 
-I have written previously about the importance of the [politics of software](http://citizenspress.github.io/articles/Politics-and-Software/) and fight for [less restrictive](http://citizenspress.org/editorials/copyright-academy) copyright [licensing](http://citizenspress.org/editorials/openaccess) that help in building the commons of ideas in their described form. Since copyright laws regulate intellectual property for software, written material, pictures and other works, it is important for social justice organizations to understand the politics of copyright as it relates to these domains.
+I have written previously about the importance of the [politics of software](http://citizenspress.github.io/articles/Politics-and-Software/) and fight for [less restrictive](http://citizenspress.org/editorials/copyright-academy) copyright [licensing](http://citizenspress.org/editorials/openaccess). I think that these issues are at the heart of helping to building a "commons" for ideas in their written form. Since copyright laws regulate ownership of intellectual property for software, written material, pictures and other works, it is important for social justice organizations to understand the politics of copyright as it relates to these areas.
 
 Indeed, the politics of ownership and the production of documents and the production of software are not as unrelated as they may seem at first glance.
 
