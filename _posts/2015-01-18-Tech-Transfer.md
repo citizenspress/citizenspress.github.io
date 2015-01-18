@@ -10,11 +10,11 @@ comments: true
 share: true
 ---
 
-It seems like every week I hear of another progressive organization making the transition to new technologies, be they new software, hardware or processes. The feedback I receive from folks enduring this transition tends to be mostly that these moves are frustrating, time consuming and costly. So, I have been thinking a lot lately about how progressive organizations can make this transition more easily without undermining their progressive values.
+It seems like every week I hear of another progressive organization making a large, organization-wide transition to newer technology. The feedback I receive from folks enduring this transition tends to be mostly that these moves are frustrating, time consuming and costly. So, I have been thinking a lot lately about how progressive organizations can make this transition more easily without undermining their progressive values.
 
-I think that these things are important is that I see an increasing number of organizations spend obscene amounts of resources and money on technology only to see the implementation fail. 
+I think that these things are important as I see an increasing number of organizations spend obscene amounts of resources and money on technology transition -- only to see the implementation fail. 
 
-At a time where our organizations are under attack, it is hardly something that we can manage to waste resources on. This is especially the case when one considers that most of our organizations are mainly services organizations of information workers and organizers.
+At a time where our progressive organizations are under attack, it is hardly something that we can stand to waste resources on. This is especially the case when one considers that most of our organizations are mainly services organizations of information workers and organizers.
 
 This is a starting list if issues I have kept track of from various conversations over the years. I will try to expand on them later. 
 
@@ -44,7 +44,7 @@ Political Economic analysis of technology is not included in the decision making
 
 #Better but not good
 
-The different between "better" and "good" technology is obscured through the transition process. Users and managers are usually so frustrated with the current technology that any increase in use/function/efficiency is enough to gain praise. However, better is not the same as good and one cannot expect users to know the difference if they have to spent time looking at options.
+The different between "better" and "good" technology is obscured through the transition process. Users and managers are usually so frustrated with the current technology that any increase in use/function/efficiency is enough to gain praise. However, better is not the same as good and one cannot expect users to know the difference if they have not spent time looking at options.
 
 #Security
 
@@ -52,8 +52,8 @@ Security is not taken seriously in a holistic way that is easy to explain. Witho
 
 #Redundant development
 
-Many organizations are looking for the same or very similar things, but are all paying for their development. The adoption of open source or centralization of code and processes in progressive organization is lagging far behind the corporate world.
+Many organizations are looking for the same or very similar things, but are all paying for their development. The adoption of open source or centralization of code and processes in progressive organizations is lagging far behind the corporate world.
 
 #The cloud and the Cloud(TM)
 
-Misunderstanding the difference between in-house server services and the proprietary "Cloud" means that many services that should be managed in-house are exported to the proprietary cloud. Software as a Service (SAAS) and Infrastructure as a Service (IAAS) sales presentations comes with shiny pamphlets and expert sales representatives that wine and dine IT departments. Adopting SAAS in the wrong areas can lead to increased costs, loss of control and security issues. While some services are better in the cloud, it is wrong to thing that all services can be more cheaply or better done through renting access.
+Misunderstanding the difference between in-house server services and the proprietary "Cloud" means that many services that should be managed in-house are exported to the proprietary cloud. Companies that sell Software as a Service (SAAS) and Infrastructure as a Service (IAAS) spend large sums on sales presentations, shiny pamphlets and expert sales representatives that wine and dine IT departments. Adopting SAAS in the wrong areas can lead to increased costs, loss of control and security issues. While some services are better in the cloud, it is wrong to assume that all services can be done more cheaply or better through renting access.
