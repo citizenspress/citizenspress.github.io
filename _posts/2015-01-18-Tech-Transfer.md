@@ -10,9 +10,7 @@ comments: true
 share: true
 ---
 
-Technology Transition in (Progressive) Organizations
-
-It seems like every week I hear of another progressive organization making the transition to new technologies be they new software, hardware or processes. The feedback I receive from folks enduring this transition tends to be mostly that these moves are frustrating, time consuming and costly. So, I have been thinking about how progressive organizations can make this transition more easily without undermining their progressive positions.
+It seems like every week I hear of another progressive organization making the transition to new technologies, be they new software, hardware or processes. The feedback I receive from folks enduring this transition tends to be mostly that these moves are frustrating, time consuming and costly. So, I have been thinking a lot lately about how progressive organizations can make this transition more easily without undermining their progressive values.
 
 I think that these things are important is that I see an increasing number of organizations spend obscene amounts of resources and money on technology only to see the implementation fail. 
 
