@@ -2,7 +2,7 @@
 layout: post
 title: Technology Transition in (Progressive) Organizations
 description: "Tech Transition"
-modified: 2014-01-31
+modified: 2015-01-18
 category: articles
 tags: [Ramblings]
 image:
