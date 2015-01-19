@@ -4,7 +4,7 @@ title: Technology Transition in (Progressive) Organizations
 description: "Tech Transition"
 modified: 2015-01-18
 category: articles
-tags: [Ramblings]
+tags: [politics]
 image:
 comments: true
 share: true
