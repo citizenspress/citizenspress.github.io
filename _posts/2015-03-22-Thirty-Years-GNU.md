@@ -40,8 +40,7 @@ importantly, will you consider adopting it more widely?
 
 [The GNU Manifesto Turns Thirty | New Yorker](http://www.newyorker.com/business/currency/the-gnu-manifesto-turns-thirty)
 
-[Why I’m Saying Goodbye to Apple, Google and Microsoft. I’m putting more
-trust in communities than corporations | Medium](https://medium.com/backchannel/why-i-m-saying-goodbye-to-apple-google-and-microsoft-78af12071bd)
+[Why I’m Saying Goodbye to Apple, Google and Microsoft. I’m putting more trust in communities than corporations | Medium](https://medium.com/backchannel/why-i-m-saying-goodbye-to-apple-google-and-microsoft-78af12071bd)
 
 [Politics of Software Development and Implementation | CPress Tech](https://citizenspress.github.io/articles/Politics-and-Software/)
 
