@@ -38,8 +38,8 @@ scientific production. Our call to you is this: can you identify ways in
 which you have engaged with open-source technology and, more
 importantly, will you consider adopting it more widely?
 
-* [The GNU Manifesto Turns Thirty | New Yorker](http://www.newyorker.com/business/currency/the-gnu-manifesto-turns-thirty)
-* [Why I’m Saying Goodbye to Apple, Google and Microsoft. I’m putting more trust in communities than corporations | Medium](https://medium.com/backchannel/why-i-m-saying-goodbye-to-apple-google-and-microsoft-78af12071bd)
-* [Politics of Software Development and Implementation | CPress Tech](https://citizenspress.github.io/articles/Politics-and-Software/)
+* [The GNU Manifesto Turns Thirty](http://www.newyorker.com/business/currency/the-gnu-manifesto-turns-thirty) -- The New Yorker
+* [Why I’m Saying Goodbye to Apple, Google and Microsoft.](https://medium.com/backchannel/why-i-m-saying-goodbye-to-apple-google-and-microsoft-78af12071bd) I’m putting more trust in communities than corporations -- Medium
+* [Politics of Software Development and Implementation ](https://citizenspress.github.io/articles/Politics-and-Software/) -- CPress Tech
 * [Copyright and Social Justice Organizations | CPress Tech](https://citizenspress.github.io/articles/Copyright-Social-Justice/)
 * [Free Software Foundation](https://www.fsf.org/)
