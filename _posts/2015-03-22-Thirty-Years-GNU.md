@@ -10,7 +10,7 @@ comments: false
 share: true
 ---
 
-Our world is seeped in technology and proprietary knowledge which
+Our world is steeped in technology and proprietary knowledge which
 intersects with ever expanding parts of our lives. Much of this
 technology and knowledge is protected by copyrights and patents that
 bestow unfair monopoly rent powers to capitalists and undermine
