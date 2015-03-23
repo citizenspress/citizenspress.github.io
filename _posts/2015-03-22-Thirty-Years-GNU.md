@@ -34,9 +34,7 @@ exaggeration to say that his innovation allowed for one of the most
 successful left-wing movements in history.
 
 GNU gives workers control over the means of technological, artistic and
-scientific production. Our call to you is this: can you identify ways in
-which you have engaged with open-source technology and, more
-importantly, will you consider adopting it more widely?
+scientific production. Now, what is your reason for not being a bigger part of it?
 
 * [The GNU Manifesto Turns Thirty](http://www.newyorker.com/business/currency/the-gnu-manifesto-turns-thirty) -- The New Yorker
 * [Why I’m Saying Goodbye to Apple, Google and Microsoft.](https://medium.com/backchannel/why-i-m-saying-goodbye-to-apple-google-and-microsoft-78af12071bd) I’m putting more trust in communities than corporations -- Medium
