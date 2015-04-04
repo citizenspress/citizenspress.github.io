@@ -40,4 +40,14 @@ scientific production. Now, what is your reason for not being a bigger part of i
 * [Why I’m Saying Goodbye to Apple, Google and Microsoft.](https://medium.com/backchannel/why-i-m-saying-goodbye-to-apple-google-and-microsoft-78af12071bd) I’m putting more trust in communities than corporations -- Medium
 * [Politics of Software Development and Implementation](https://citizenspress.github.io/articles/Politics-and-Software/) -- CPress Tech
 * [Copyright and Social Justice Organizations](https://citizenspress.github.io/articles/Copyright-Social-Justice/) -- CPress Tech
-* [Free Software Foundation](https://www.fsf.org/)
+* [Free Software Foundation](https://www.fsf.orlibre
+
+# Célébrons 30 ans de GNU et de logiciel libre
+
+Notre monde est chargé de technologies et de connaissances propriétaires qui, de plus en plus, font partie de nos vies. La plupart de ces technologies et connaissances sont protégées par des droits d’auteur et des brevets qui confèrent aux grands capitalistes des rentes monopolistes injustes, et qui affaiblissent la communauté et l’innovation.
+
+Il y a 30 ans qu’un hacker révolutionnaire a inventé un processus qui a rendu accessible le logiciel aux masses, et a refusé aux grandes entreprises technologiques plusieurs milliards de dollars. Ce hacker était Richard M. Stallman (RMS), l’inventeur des concepts de GNU et le copyleft. Le logiciel libre, GNU/Linux, la publication libre accès dans le domaine des sciences, et les licences copyleft comme Creative Commons nous ont permis de partager gratuitement notre travail avec le monde. Le génie de la licence copyleft est qu’elle est conçue afin de créer un monde de contenu toujours partageable et gratuit. Les sciences et les arts qui sortent sous le copyleft peuvent nous libérer des contraintes du capitalisme. En plus, cette technologie, ça marche!
+
+RMS a créé une communauté en produisant des droits d’auteur qui étaient moins restrictifs, et puis en réalisant sa passion de construire une opposition collective contre le capitalisme monopoliste. Ce n’est aucune exagération de dire que ses innovations étaient la cause du succès de ce mouvement de gauche historique. 
+
+GNU fournit aux travailleurs le contrôle des moyens de production technologiques, artistiques et scientifiques. Notre question à vous est la suivante : Pouvez-vous identifier les moyens par lesquels vous vous êtes engagés avec la technologie open source; et de plus important, prévoyez-vous l’adopter à plus grande échelle?
