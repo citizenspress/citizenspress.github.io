@@ -1,12 +1,13 @@
+
 ---
 layout: post
-title: Open Source Software: a necessary tool to build our movements
+title: Open Source Software a necessary tool to build our movements
 description: "Open Source Software"
 modified: 2016-07-25
 category: articles
 tags: [Ramblings]
 image:
-comments: true
+comments: false
 share: true
 ---
 
