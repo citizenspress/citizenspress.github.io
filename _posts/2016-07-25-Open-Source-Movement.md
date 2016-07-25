@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Open Source Software a necessary tool to build our movements
@@ -10,7 +9,6 @@ image:
 comments: false
 share: true
 ---
-
 
 We use software constantly: on our phones, on our computers, in cars,
 televisions and other devices we use daily. The way software is made,
