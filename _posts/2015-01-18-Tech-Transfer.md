@@ -10,6 +10,9 @@ comments: true
 share: true
 ---
 
+* This will become a table of contents (this text will be scraped).
+{:toc}
+
 It seems like every week I hear of another progressive organization making a large, organization-wide transition to newer technology. The feedback I have received from folks enduring these transitions tend to be these moves are frustrating, time consuming and costly. So, I have been thinking a lot about how these organizations can make this transition more easily without undermining their progressive values.
 
 I think that these things are important as I see an increasing number of organizations spend obscene amounts of resources and money on technology transition -- only to see the implementation fail. 
