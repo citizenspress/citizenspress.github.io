@@ -36,6 +36,8 @@ links:
     url: /about/
   - title: Articles
     url: /articles/
+  - title: Papers
+    url: /articles/papers/
   - title: Citizens' Press
     url: http://cpress.org
     external: true
