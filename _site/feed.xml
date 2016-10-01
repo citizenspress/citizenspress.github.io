@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://citizenspress.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://citizenspress.github.io/" rel="alternate" type="text/html" /><updated>2016-10-01T19:02:18-04:00</updated><id>https://citizenspress.github.io/</id><title type="html">Graham Cox</title><subtitle>Writing and Technology</subtitle><entry><title type="html">Ontario Renewable Procurement Cancellation</title><link href="https://citizenspress.github.io/briefs/Brief-Ontario-Renewals/" rel="alternate" type="text/html" title="Ontario Renewable Procurement Cancellation" /><published>2016-10-01T00:00:00-04:00</published><updated>2016-10-01T00:00:00-04:00</updated><id>https://citizenspress.github.io/briefs/Brief-Ontario-Renewals</id><content type="html" xml:base="https://citizenspress.github.io/briefs/Brief-Ontario-Renewals/">&lt;h1 id=&quot;background&quot;&gt;Background&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://citizenspress.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://citizenspress.github.io/" rel="alternate" type="text/html" /><updated>2016-10-01T19:25:50-04:00</updated><id>https://citizenspress.github.io/</id><title type="html">Graham Cox</title><subtitle>Writing and Technology</subtitle><entry><title type="html">Ontario Renewable Procurement Cancellation</title><link href="https://citizenspress.github.io/briefs/Brief-Ontario-Renewals/" rel="alternate" type="text/html" title="Ontario Renewable Procurement Cancellation" /><published>2016-10-01T00:00:00-04:00</published><updated>2016-10-01T00:00:00-04:00</updated><id>https://citizenspress.github.io/briefs/Brief-Ontario-Renewals</id><content type="html" xml:base="https://citizenspress.github.io/briefs/Brief-Ontario-Renewals/">&lt;h1 id=&quot;background&quot;&gt;Background&lt;/h1&gt;
 
 &lt;p&gt;Electricity generation in Ontario is provided through a mix of Nuclear, Hydro, natural gas, reserve and solar/wind/biomass generation.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://plot.ly/~cpress/19/?share_key=Fwq8smDaNZHGrcDjuy20pE&quot; alt=&quot;Installed generation capacity in Ontario (2015)&quot; title=&quot;supply&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://plot.ly/~cpress/19/?share_key=Fwq8smDaNZHGrcDjuy20pE&quot;&gt;&lt;img src=&quot;/images/Ontario-supply.png&quot; alt=&quot;Installed generation capacity in Ontario (2015)&quot; title=&quot;supply&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;./Downloads/Ontario-Generation.png&quot; alt=&quot;Actual generation used in Ontario (160TWh total 2015)&quot; title=&quot;generation&quot; /&gt;&lt;/p&gt;
 
@@ -34,90 +34,90 @@
 
 &lt;p&gt;About a third of hydro generation companies in Ontario are run by private companies. H2O Power is one of the most aggressive in Northern Ontario for smaller capacity. Others include TransAlta, Brookfield, and Innergex which have acquired older generation (or the companies that owned them).&lt;/p&gt;
 
-&lt;p&gt;Ontario Power Generation has most of the larger hydro capacity that is developed in partnerships with First Nations. Further expansion of small generation capacity will be both OPG and these private energy companies. These projects take a long time to develop and negotiate.&lt;/p&gt;</content><category term="briefs" /><category term="briefingnote" /><summary type="html">Background</summary></entry><entry><title type="html">Open Source Software – a necessary tool to build our movements</title><link href="https://citizenspress.github.io/articles/Open-Source-Movement/" rel="alternate" type="text/html" title="Open Source Software -- a necessary tool to build our movements" /><published>2016-07-25T00:00:00-04:00</published><updated>2016-07-25T00:00:00-04:00</updated><id>https://citizenspress.github.io/articles/Open-Source-Movement</id><content type="html" xml:base="https://citizenspress.github.io/articles/Open-Source-Movement/">&lt;p&gt;We use software constantly: on our phones, on our computers, in cars,
+&lt;p&gt;Ontario Power Generation has most of the larger hydro capacity that is developed in partnerships with First Nations. Further expansion of small generation capacity will be both OPG and these private energy companies. These projects take a long time to develop and negotiate.&lt;/p&gt;</content><category term="briefs" /><category term="briefingnote" /><summary type="html">Background</summary></entry><entry><title type="html">Open Source Software – a necessary tool to build our movements</title><link href="https://citizenspress.github.io/articles/Open-Source-Movement/" rel="alternate" type="text/html" title="Open Source Software -- a necessary tool to build our movements" /><published>2016-07-25T00:00:00-04:00</published><updated>2016-07-25T00:00:00-04:00</updated><id>https://citizenspress.github.io/articles/Open-Source-Movement</id><content type="html" xml:base="https://citizenspress.github.io/articles/Open-Source-Movement/">We use software constantly: on our phones, on our computers, in cars,
 televisions and other devices we use daily. The way software is made,
 however, remains foreign to most people. Many academics have tried to
-rebrand the work done by designers and coders of software as “knowledge
-work” in an effort to set it apart from other types of work. The
+rebrand the work done by designers and coders of software as &quot;knowledge
+work&quot; in an effort to set it apart from other types of work. The
 knowledge work is separated simply because the end product is intangible
 and the workplace is more geographically amorphous. Make no mistake,
 those hordes of coders and developers typing away at their computers are
 workers just as much as the auto assembly line worker or the steel plant
-worker, and their conditions are just as oppressive.&lt;/p&gt;
+worker, and their conditions are just as oppressive.
 
-&lt;p&gt;There is an obvious and essential difference between software and a
-physical product – such as a car. Unlike a car, software requires time
+There is an obvious and essential difference between software and a
+physical product -- such as a car. Unlike a car, software requires time
 to build the first one, but no time and very little energy to produce
 the next one. The majority of work that goes on is refinement and
-redevelopment of existing software products.&lt;/p&gt;
+redevelopment of existing software products.
 
-&lt;p&gt;This makes production of software more like the work of researchers,
+This makes production of software more like the work of researchers,
 academics, journalists, teachers and artists. For these types of
 workers, production is better when more people are engaged at all levels
 and the product increases in value the more it is shared. Software, like
-science and medical knowledge, is a social good.&lt;/p&gt;
+science and medical knowledge, is a social good.
 
-&lt;p&gt;On the other side, proprietary software and its corporate vendors are
+On the other side, proprietary software and its corporate vendors are
 ubiquitous, shiny, advertised to the point where it seems as though
 everyone else uses them. We are familiar with them because they are
 pushed on us by our employers who bought into their sales pitches, have
 outsourced the development to cheaper labour and now spend too much
 money on per-employee licences not to force everyone to use them.
 Vendors like Microsoft, Oracle, IBM, BlackBerry, etc. are classic
-examples.&lt;/p&gt;
+examples.
 
-&lt;p&gt;Behind the shine, proprietary software is produced by outsourced,
+Behind the shine, proprietary software is produced by outsourced,
 non-union workers, the majority of which have no benefits and little
 health and safety support. Their work environments are male-dominated,
 where sexual harassment abounds, where age and experience are often seen
 as negative attributes. The knowledge developed in these environments is
 then sold at huge profit to the private investors with little care about
-the social impacts.&lt;/p&gt;
+the social impacts.
 
-&lt;p&gt;For these reasons, using closed source, proprietary software products is
+For these reasons, using closed source, proprietary software products is
 akin to buying clothes made in sweatshops, buying from companies that
 have outsourced to overseas production, supporting private knowledge
 development or for-profit medicine. And, given that alternatives to most
 proprietary software do exist, it is unconscionable for progressives to
 continue to turn a blind eye to their use by either themselves or their
-organizations.&lt;/p&gt;
+organizations.
 
-&lt;p&gt;If it were any other products, we would reject buying them out of
+If it were any other products, we would reject buying them out of
 principle. And just like sweatshop-made clothing, there are plenty of
-alternatives made in more equitable conditions.&lt;/p&gt;
+alternatives made in more equitable conditions.
 
-&lt;p&gt;Even the corporate world is catching on to this reality. The majority of
+Even the corporate world is catching on to this reality. The majority of
 the software that is used by the technology service companies,
 jouralism, secure communications, and auto makers like Toyota has been
 developed by with the open source software community. The companies know
 that this software is better, cheaper to implement and maintain
-in-house.&lt;/p&gt;
+in-house.
 
-&lt;p&gt;Socialists demand that our organizations buy unionized products, oppose
+Socialists demand that our organizations buy unionized products, oppose
 outsourcing of work to lower wages and act in solidarity with other
 workers. For the same reasons, we should be demanding the rejection of
 proprietary software when alternatives exist and demanding in-house
 developers be employed and their code shared with the rest of the
 movement. We must reject the millions of dollars wasted through the
 purchase of restrictive and unnecessary licences when that money could
-be used to employ people to expand development.&lt;/p&gt;
+be used to employ people to expand development.
 
-&lt;p&gt;The call to use of open source software is a call for social justice
+The call to use of open source software is a call for social justice
 just like many others. To ignore it is to not only be culpable in the
 expansion of massive software monopolies, but to undermine the very
-movement to which we belong.&lt;/p&gt;
+movement to which we belong.
 
-&lt;p&gt;• &lt;a href=&quot;http://citizenspress.us10.list-manage.com/track/click?u=27d7d00e19a37005743125d7e&amp;amp;id=a2a37d571a&amp;amp;e=580a6e5d4b&quot;&gt;Open Source Software List: The Ultimate
-List&lt;/a&gt;&lt;/p&gt;
+• [Open Source Software List: The Ultimate
+List](http://citizenspress.us10.list-manage.com/track/click?u=27d7d00e19a37005743125d7e&amp;id=a2a37d571a&amp;e=580a6e5d4b)
 
-&lt;p&gt;• &lt;a href=&quot;http://citizenspress.us10.list-manage.com/track/click?u=27d7d00e19a37005743125d7e&amp;amp;id=cc4dba06a2&amp;amp;e=580a6e5d4b&quot;&gt;Politics of Software Development and
-Implementation&lt;/a&gt;&lt;/p&gt;
+• [Politics of Software Development and
+Implementation](http://citizenspress.us10.list-manage.com/track/click?u=27d7d00e19a37005743125d7e&amp;id=cc4dba06a2&amp;e=580a6e5d4b)
 
-&lt;p&gt;• &lt;a href=&quot;http://citizenspress.us10.list-manage1.com/track/click?u=27d7d00e19a37005743125d7e&amp;amp;id=12c373206a&amp;amp;e=580a6e5d4b&quot;&gt;Philosophy of the GNU
-Project&lt;/a&gt;&lt;/p&gt;
+• [Philosophy of the GNU
+Project](http://citizenspress.us10.list-manage1.com/track/click?u=27d7d00e19a37005743125d7e&amp;id=12c373206a&amp;e=580a6e5d4b)
 
-&lt;p&gt;• &lt;a href=&quot;http://citizenspress.us10.list-manage.com/track/click?u=27d7d00e19a37005743125d7e&amp;amp;id=63b060e997&amp;amp;e=580a6e5d4b&quot;&gt;Why Open Source Software? Look at the
-Numbers!&lt;/a&gt;&lt;/p&gt;</content><category term="articles" /><category term="Ramblings" /><summary type="html">We use software constantly: on our phones, on our computers, in cars,
+• [Why Open Source Software? Look at the
+Numbers!](http://citizenspress.us10.list-manage.com/track/click?u=27d7d00e19a37005743125d7e&amp;id=63b060e997&amp;e=580a6e5d4b)</content><category term="articles" /><category term="Ramblings" /><summary type="html">We use software constantly: on our phones, on our computers, in cars,
 televisions and other devices we use daily. The way software is made,
 however, remains foreign to most people. Many academics have tried to
 rebrand the work done by designers and coders of software as “knowledge
@@ -126,171 +126,161 @@ knowledge work is separated simply because the end product is intangible
 and the workplace is more geographically amorphous. Make no mistake,
 those hordes of coders and developers typing away at their computers are
 workers just as much as the auto assembly line worker or the steel plant
-worker, and their conditions are just as oppressive.</summary></entry><entry><title type="html">Celebrating 30 years of GNU and Free Software</title><link href="https://citizenspress.github.io/articles/Thirty-Years-GNU/" rel="alternate" type="text/html" title="Celebrating 30 years of GNU and Free Software" /><published>2015-03-22T00:00:00-04:00</published><updated>2015-03-22T00:00:00-04:00</updated><id>https://citizenspress.github.io/articles/Thirty-Years-GNU</id><content type="html" xml:base="https://citizenspress.github.io/articles/Thirty-Years-GNU/">&lt;p&gt;Our world is steeped in technology and proprietary knowledge which
+worker, and their conditions are just as oppressive.</summary></entry><entry><title type="html">Celebrating 30 years of GNU and Free Software</title><link href="https://citizenspress.github.io/articles/Thirty-Years-GNU/" rel="alternate" type="text/html" title="Celebrating 30 years of GNU and Free Software" /><published>2015-03-22T00:00:00-04:00</published><updated>2015-03-22T00:00:00-04:00</updated><id>https://citizenspress.github.io/articles/Thirty-Years-GNU</id><content type="html" xml:base="https://citizenspress.github.io/articles/Thirty-Years-GNU/">Our world is steeped in technology and proprietary knowledge which
 intersects with ever expanding parts of our lives. Much of this
 technology and knowledge is protected by copyrights and patents that
 bestow unfair monopoly rent powers to capitalists and undermine
-community and innovation.&lt;/p&gt;
+community and innovation.
 
-&lt;p&gt;Thirty years ago a revolutionary hacker invented a process that
+Thirty years ago a revolutionary hacker invented a process that
 delivered software to the masses and has denied untold billions from
-technology capitalists. The hacker’s name is Richard M. Stallman (RMS)
+technology capitalists. The hacker's name is Richard M. Stallman (RMS)
 and the concepts he invented were GNU and Copyleft. Free software,
 GNU/Linux, Open Access publishing for science and copyleft licences like
 Creative Commons have allowed us to share our work with the world for
 free. The genius of the copyleft licence is that it is structured to
 create a world of constantly free shareable content. Science and art
 released under copyleft can free us from capitalist constraints: and it
-works.&lt;/p&gt;
+works.
 
-&lt;p&gt;RMS created a community by writing a copyright licence that was less
+RMS created a community by writing a copyright licence that was less
 restrictive and then using his passion to help build a community that
 would build an opposition to monopoly capitalism. It is not an
 exaggeration to say that his innovation allowed for one of the most
-successful left-wing movements in history.&lt;/p&gt;
+successful left-wing movements in history.
 
-&lt;p&gt;GNU gives workers control over the means of technological, artistic and
-scientific production. Now, what is your reason for not being a bigger part of it?&lt;/p&gt;
+GNU gives workers control over the means of technological, artistic and
+scientific production. Now, what is your reason for not being a bigger part of it?
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.newyorker.com/business/currency/the-gnu-manifesto-turns-thirty&quot;&gt;The GNU Manifesto Turns Thirty&lt;/a&gt; – The New Yorker&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/backchannel/why-i-m-saying-goodbye-to-apple-google-and-microsoft-78af12071bd&quot;&gt;Why I’m Saying Goodbye to Apple, Google and Microsoft.&lt;/a&gt; I’m putting more trust in communities than corporations – Medium&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://citizenspress.github.io/articles/Politics-and-Software/&quot;&gt;Politics of Software Development and Implementation&lt;/a&gt; – CPress Tech&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://citizenspress.github.io/articles/Copyright-Social-Justice/&quot;&gt;Copyright and Social Justice Organizations&lt;/a&gt; – CPress Tech&lt;/li&gt;
-  &lt;li&gt;[Free Software Foundation](https://www.fsf.orlibre&lt;/li&gt;
-&lt;/ul&gt;
+* [The GNU Manifesto Turns Thirty](http://www.newyorker.com/business/currency/the-gnu-manifesto-turns-thirty) -- The New Yorker
+* [Why I’m Saying Goodbye to Apple, Google and Microsoft.](https://medium.com/backchannel/why-i-m-saying-goodbye-to-apple-google-and-microsoft-78af12071bd) I’m putting more trust in communities than corporations -- Medium
+* [Politics of Software Development and Implementation](https://citizenspress.github.io/articles/Politics-and-Software/) -- CPress Tech
+* [Copyright and Social Justice Organizations](https://citizenspress.github.io/articles/Copyright-Social-Justice/) -- CPress Tech
+* [Free Software Foundation](https://www.fsf.orlibre
 
-&lt;h1 id=&quot;clbrons-30-ans-de-gnu-et-de-logiciel-libre&quot;&gt;Célébrons 30 ans de GNU et de logiciel libre&lt;/h1&gt;
+# Célébrons 30 ans de GNU et de logiciel libre
 
-&lt;p&gt;Notre monde est chargé de technologies et de connaissances propriétaires qui, de plus en plus, font partie de nos vies. La plupart de ces technologies et connaissances sont protégées par des droits d’auteur et des brevets qui confèrent aux grands capitalistes des rentes monopolistes injustes, et qui affaiblissent la communauté et l’innovation.&lt;/p&gt;
+Notre monde est chargé de technologies et de connaissances propriétaires qui, de plus en plus, font partie de nos vies. La plupart de ces technologies et connaissances sont protégées par des droits d’auteur et des brevets qui confèrent aux grands capitalistes des rentes monopolistes injustes, et qui affaiblissent la communauté et l’innovation.
 
-&lt;p&gt;Il y a 30 ans qu’un hacker révolutionnaire a inventé un processus qui a rendu accessible le logiciel aux masses, et a refusé aux grandes entreprises technologiques plusieurs milliards de dollars. Ce hacker était Richard M. Stallman (RMS), l’inventeur des concepts de GNU et le copyleft. Le logiciel libre, GNU/Linux, la publication libre accès dans le domaine des sciences, et les licences copyleft comme Creative Commons nous ont permis de partager gratuitement notre travail avec le monde. Le génie de la licence copyleft est qu’elle est conçue afin de créer un monde de contenu toujours partageable et gratuit. Les sciences et les arts qui sortent sous le copyleft peuvent nous libérer des contraintes du capitalisme. En plus, cette technologie, ça marche!&lt;/p&gt;
+Il y a 30 ans qu’un hacker révolutionnaire a inventé un processus qui a rendu accessible le logiciel aux masses, et a refusé aux grandes entreprises technologiques plusieurs milliards de dollars. Ce hacker était Richard M. Stallman (RMS), l’inventeur des concepts de GNU et le copyleft. Le logiciel libre, GNU/Linux, la publication libre accès dans le domaine des sciences, et les licences copyleft comme Creative Commons nous ont permis de partager gratuitement notre travail avec le monde. Le génie de la licence copyleft est qu’elle est conçue afin de créer un monde de contenu toujours partageable et gratuit. Les sciences et les arts qui sortent sous le copyleft peuvent nous libérer des contraintes du capitalisme. En plus, cette technologie, ça marche!
 
-&lt;p&gt;RMS a créé une communauté en produisant des droits d’auteur qui étaient moins restrictifs, et puis en réalisant sa passion de construire une opposition collective contre le capitalisme monopoliste. Ce n’est aucune exagération de dire que ses innovations étaient la cause du succès de ce mouvement de gauche historique.&lt;/p&gt;
+RMS a créé une communauté en produisant des droits d’auteur qui étaient moins restrictifs, et puis en réalisant sa passion de construire une opposition collective contre le capitalisme monopoliste. Ce n’est aucune exagération de dire que ses innovations étaient la cause du succès de ce mouvement de gauche historique. 
 
-&lt;p&gt;GNU fournit aux travailleurs le contrôle des moyens de production technologiques, artistiques et scientifiques. Notre question à vous est la suivante : Pouvez-vous identifier les moyens par lesquels vous vous êtes engagés avec la technologie open source; et de plus important, prévoyez-vous l’adopter à plus grande échelle?&lt;/p&gt;</content><category term="articles" /><category term="politics" /><summary type="html">Our world is steeped in technology and proprietary knowledge which
+GNU fournit aux travailleurs le contrôle des moyens de production technologiques, artistiques et scientifiques. Notre question à vous est la suivante : Pouvez-vous identifier les moyens par lesquels vous vous êtes engagés avec la technologie open source; et de plus important, prévoyez-vous l’adopter à plus grande échelle?</content><category term="articles" /><category term="politics" /><summary type="html">Our world is steeped in technology and proprietary knowledge which
 intersects with ever expanding parts of our lives. Much of this
 technology and knowledge is protected by copyrights and patents that
 bestow unfair monopoly rent powers to capitalists and undermine
-community and innovation.</summary></entry><entry><title type="html">Technology Transition in (Progressive) Organizations</title><link href="https://citizenspress.github.io/articles/Tech-Transfer/" rel="alternate" type="text/html" title="Technology Transition in (Progressive) Organizations" /><published>2015-01-18T00:00:00-05:00</published><updated>2015-01-18T00:00:00-05:00</updated><id>https://citizenspress.github.io/articles/Tech-Transfer</id><content type="html" xml:base="https://citizenspress.github.io/articles/Tech-Transfer/">&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#in-house-capacity&quot; id=&quot;markdown-toc-in-house-capacity&quot;&gt;In-house capacity&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#the-politics-of-consultants&quot; id=&quot;markdown-toc-the-politics-of-consultants&quot;&gt;The politics of consultants&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#managing-changes&quot; id=&quot;markdown-toc-managing-changes&quot;&gt;Managing changes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#limitations-of-limitless-choice&quot; id=&quot;markdown-toc-limitations-of-limitless-choice&quot;&gt;Limitations of limitless choice&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#unclear-needs-assessments&quot; id=&quot;markdown-toc-unclear-needs-assessments&quot;&gt;Unclear needs assessments&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#political-economy-of-technology&quot; id=&quot;markdown-toc-political-economy-of-technology&quot;&gt;Political economy of technology&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#better-but-not-good&quot; id=&quot;markdown-toc-better-but-not-good&quot;&gt;Better but not good&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#security&quot; id=&quot;markdown-toc-security&quot;&gt;Security&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#redundant-development&quot; id=&quot;markdown-toc-redundant-development&quot;&gt;Redundant development&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#the-cloud-and-the-cloudtm&quot; id=&quot;markdown-toc-the-cloud-and-the-cloudtm&quot;&gt;The cloud and the Cloud(TM)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+community and innovation.</summary></entry><entry><title type="html">Technology Transition in (Progressive) Organizations</title><link href="https://citizenspress.github.io/articles/Tech-Transfer/" rel="alternate" type="text/html" title="Technology Transition in (Progressive) Organizations" /><published>2015-01-18T00:00:00-05:00</published><updated>2015-01-18T00:00:00-05:00</updated><id>https://citizenspress.github.io/articles/Tech-Transfer</id><content type="html" xml:base="https://citizenspress.github.io/articles/Tech-Transfer/">* This will become a table of contents (this text will be scraped).
+{:toc}
 
-&lt;p&gt;It seems like every week I hear of another progressive organization making a large, organization-wide transition to newer technology. The feedback I have received from folks enduring these transitions tend to be these moves are frustrating, time consuming and costly. So, I have been thinking a lot about how these organizations can make this transition more easily without undermining their progressive values.&lt;/p&gt;
+It seems like every week I hear of another progressive organization making a large, organization-wide transition to newer technology. The feedback I have received from folks enduring these transitions tend to be these moves are frustrating, time consuming and costly. So, I have been thinking a lot about how these organizations can make this transition more easily without undermining their progressive values.
 
-&lt;p&gt;I think that these things are important as I see an increasing number of organizations spend obscene amounts of resources and money on technology transition – only to see the implementation fail.&lt;/p&gt;
+I think that these things are important as I see an increasing number of organizations spend obscene amounts of resources and money on technology transition -- only to see the implementation fail. 
 
-&lt;p&gt;At a time where our progressive organizations are under attack, it is hardly something that we can stand to waste resources on. This is especially the case when one considers that most of our organizations are mainly services organizations of information workers and organizers.&lt;/p&gt;
+At a time where our progressive organizations are under attack, it is hardly something that we can stand to waste resources on. This is especially the case when one considers that most of our organizations are mainly services organizations of information workers and organizers.
 
-&lt;p&gt;This is a starting list if issues I have kept track of from various conversations over the years. I will try to expand on them later.&lt;/p&gt;
+This is a starting list if issues I have kept track of from various conversations over the years. I will try to expand on them later. 
 
-&lt;h1 id=&quot;in-house-capacity&quot;&gt;In-house capacity&lt;/h1&gt;
+# In-house capacity
 
-&lt;p&gt;The outsourcing of development has two implications for small to medium sized progressive organizations. One: loss of in house technical knowledge resulting in costs for every change requested. Two: loss of knowledge about how technology is used in house to connect that with the direction of technological development/adoption.&lt;/p&gt;
+The outsourcing of development has two implications for small to medium sized progressive organizations. One: loss of in house technical knowledge resulting in costs for every change requested. Two: loss of knowledge about how technology is used in house to connect that with the direction of technological development/adoption.
 
-&lt;h1 id=&quot;the-politics-of-consultants&quot;&gt;The politics of consultants&lt;/h1&gt;
+# The politics of consultants
 
-&lt;p&gt;Incompatible politics of major consultant firms and progressive organizations. Hiring Deloitte to develop your technological solutions while we fight employers and governments that do the same is a bizarre contradiction that many progressive organizations face.&lt;/p&gt;
+Incompatible politics of major consultant firms and progressive organizations. Hiring Deloitte to develop your technological solutions while we fight employers and governments that do the same is a bizarre contradiction that many progressive organizations face.
 
-&lt;h1 id=&quot;managing-changes&quot;&gt;Managing changes&lt;/h1&gt;
+# Managing changes
 
-&lt;p&gt;Managing transition before, during and after the adoption of that technology. Who and how that is managed whether it is through corporate “Change Management” or more inclusive and non-consultant driven processes is important to success of the adoption and implementation of that technology.&lt;/p&gt;
+Managing transition before, during and after the adoption of that technology. Who and how that is managed whether it is through corporate &quot;Change Management&quot; or more inclusive and non-consultant driven processes is important to success of the adoption and implementation of that technology.
 
-&lt;h1 id=&quot;limitations-of-limitless-choice&quot;&gt;Limitations of limitless choice&lt;/h1&gt;
+# Limitations of limitless choice
 
-&lt;p&gt;Software and hardware choices seem limitless, but the options examined by the process tend to purposely exclude some progressive options. This is likely because of monopolies providing full suit Software as a Service (SAAS) products. However, limiting choice in software and hardware purchasing to monopolies comes with an inflated price for servicing.&lt;/p&gt;
+Software and hardware choices seem limitless, but the options examined by the process tend to purposely exclude some progressive options. This is likely because of monopolies providing full suit Software as a Service (SAAS) products. However, limiting choice in software and hardware purchasing to monopolies comes with an inflated price for servicing.
 
-&lt;h1 id=&quot;unclear-needs-assessments&quot;&gt;Unclear needs assessments&lt;/h1&gt;
+# Unclear needs assessments
 
-&lt;p&gt;The difference between needs, wants and advertised capabilities are not clearly defined or costed.&lt;/p&gt;
+The difference between needs, wants and advertised capabilities are not clearly defined or costed.
 
-&lt;h1 id=&quot;political-economy-of-technology&quot;&gt;Political economy of technology&lt;/h1&gt;
+# Political economy of technology
 
-&lt;p&gt;Political Economic analysis of technology is not included in the decision making process. Technology transition is too often seen as an apolitical process like payroll. The reason for this disconnect is likely because the application of the political economy of technology has not been clearly explained and/or is not understood. Real world examples are needed.&lt;/p&gt;
+Political Economic analysis of technology is not included in the decision making process. Technology transition is too often seen as an apolitical process like payroll. The reason for this disconnect is likely because the application of the political economy of technology has not been clearly explained and/or is not understood. Real world examples are needed.
 
-&lt;h1 id=&quot;better-but-not-good&quot;&gt;Better but not good&lt;/h1&gt;
+# Better but not good
 
-&lt;p&gt;The different between “better” and “good” technology is obscured through the transition process. Users and managers are usually so frustrated with the current technology that any increase in use/function/efficiency is enough to gain praise. However, better is not the same as good and one cannot expect users to know the difference if they have not spent time looking at options.&lt;/p&gt;
+The different between &quot;better&quot; and &quot;good&quot; technology is obscured through the transition process. Users and managers are usually so frustrated with the current technology that any increase in use/function/efficiency is enough to gain praise. However, better is not the same as good and one cannot expect users to know the difference if they have not spent time looking at options.
 
-&lt;h1 id=&quot;security&quot;&gt;Security&lt;/h1&gt;
+# Security
 
-&lt;p&gt;Security is not taken seriously in a holistic way that is easy to explain. Without examining all aspects of security including the real world adoption of security by the users and the IT system administrators it is likely to fail. An example is the use of high-end encryption protocols, but without enforcing an effective password policy. A second example is a complex and over-the-top password policy where people cannot remember their passwords and end up writing their passwords everywhere so they remember them.&lt;/p&gt;
+Security is not taken seriously in a holistic way that is easy to explain. Without examining all aspects of security including the real world adoption of security by the users and the IT system administrators it is likely to fail. An example is the use of high-end encryption protocols, but without enforcing an effective password policy. A second example is a complex and over-the-top password policy where people cannot remember their passwords and end up writing their passwords everywhere so they remember them.
 
-&lt;h1 id=&quot;redundant-development&quot;&gt;Redundant development&lt;/h1&gt;
+# Redundant development
 
-&lt;p&gt;Many organizations are looking for the same or very similar things, but are all paying for their development. The adoption of open source or centralization of code and processes in progressive organizations is lagging far behind the corporate world.&lt;/p&gt;
+Many organizations are looking for the same or very similar things, but are all paying for their development. The adoption of open source or centralization of code and processes in progressive organizations is lagging far behind the corporate world.
 
-&lt;h1 id=&quot;the-cloud-and-the-cloudtm&quot;&gt;The cloud and the Cloud(TM)&lt;/h1&gt;
+# The cloud and the Cloud(TM)
 
-&lt;p&gt;Misunderstanding the difference between in-house server services and the proprietary “Cloud” means that many services that should be managed in-house are exported to the proprietary cloud. Companies that sell Software as a Service (SAAS) and Infrastructure as a Service (IAAS) spend large sums on sales presentations, shiny pamphlets and expert sales representatives that wine and dine IT departments. Adopting SAAS in the wrong areas can lead to increased costs, loss of control and security issues. While some services are better in the cloud, it is wrong to assume that all services can be done more cheaply or better through renting access.&lt;/p&gt;</content><category term="articles" /><category term="politics" /><summary type="html"></summary></entry><entry><title type="html">Copyright and Social Justice Organizations</title><link href="https://citizenspress.github.io/articles/Copyright-Social-Justice/" rel="alternate" type="text/html" title="Copyright and Social Justice Organizations" /><published>2014-02-15T00:00:00-05:00</published><updated>2014-02-15T00:00:00-05:00</updated><id>https://citizenspress.github.io/articles/Copyright-Social-Justice</id><content type="html" xml:base="https://citizenspress.github.io/articles/Copyright-Social-Justice/">&lt;h1 id=&quot;raising-consciousness-on-copyright-issues&quot;&gt;Raising Consciousness on Copyright Issues&lt;/h1&gt;
+Misunderstanding the difference between in-house server services and the proprietary &quot;Cloud&quot; means that many services that should be managed in-house are exported to the proprietary cloud. Companies that sell Software as a Service (SAAS) and Infrastructure as a Service (IAAS) spend large sums on sales presentations, shiny pamphlets and expert sales representatives that wine and dine IT departments. Adopting SAAS in the wrong areas can lead to increased costs, loss of control and security issues. While some services are better in the cloud, it is wrong to assume that all services can be done more cheaply or better through renting access.</content><category term="articles" /><category term="politics" /><summary type="html"></summary></entry><entry><title type="html">Copyright and Social Justice Organizations</title><link href="https://citizenspress.github.io/articles/Copyright-Social-Justice/" rel="alternate" type="text/html" title="Copyright and Social Justice Organizations" /><published>2014-02-15T00:00:00-05:00</published><updated>2014-02-15T00:00:00-05:00</updated><id>https://citizenspress.github.io/articles/Copyright-Social-Justice</id><content type="html" xml:base="https://citizenspress.github.io/articles/Copyright-Social-Justice/"># Raising Consciousness on Copyright Issues
 
-&lt;p&gt;I have written previously about the importance of understanding the &lt;a href=&quot;http://citizenspress.github.io/articles/Politics-and-Software/&quot;&gt;politics of software&lt;/a&gt; and fight for &lt;a href=&quot;http://citizenspress.org/editorials/copyright-academy&quot;&gt;less restrictive&lt;/a&gt; copyright &lt;a href=&quot;http://citizenspress.org/editorials/openaccess&quot;&gt;licensing&lt;/a&gt; for social justice movements. I think these issues are at the heart of building the &lt;a href=&quot;https://en.wikipedia.org/wiki/Commons#Concepts&quot; title=&quot;Today, the commons are also understood within a cultural sphere. These commons include literature, music, arts, design, film, video, television, radio, information, software and sites of heritage. The commons can also include public goods such as public space, public education, health and the infrastructure that allows our society to function such as electricity or water delivery systems.&quot;&gt;commons&lt;/a&gt; for ideas. Since copyright laws regulate ownership of software, written material, pictures and other creative works, it is important for social justice organizations to understand the politics of copyright as it relates to their activities. Specifically, how misuse of copyright &lt;a href=&quot;http://www.economist.com/node/2592996&quot;&gt;limits creativity, reduces sharing&lt;/a&gt; and hampers the movement.&lt;/p&gt;
 
-&lt;p&gt;The politics that define ownership of printed documents and software are not as unrelated as they seem at first glance. Sharing written works with a Creative Commons license is the kid brother to the sharing code in the open source movement. In fact, less restrictive copyright licences come from the software world and we owe the growing commons of ideas and artistic works to the copyright freedom fighters in the free and open software worlds. Richard Stallman, a &lt;a href=&quot;https://gnu.org/philosophy/15-years-of-free-software.html&quot;&gt;free software&lt;/a&gt; guru who championed the free software &lt;a href=&quot;https://gnu.org/licenses/gpl.html&quot;&gt;GNU licence&lt;/a&gt; is what makes much of the sharing possible. It is certainly the work of the free software movement that established the alternative to intellectual property rights regimes that seek to lock-down knowledge in a proprietary ownership model.&lt;/p&gt;
+I have written previously about the importance of understanding the [politics of software](http://citizenspress.github.io/articles/Politics-and-Software/) and fight for [less restrictive](http://citizenspress.org/editorials/copyright-academy) copyright [licensing](http://citizenspress.org/editorials/openaccess) for social justice movements. I think these issues are at the heart of building the [commons](https://en.wikipedia.org/wiki/Commons#Concepts &quot;Today, the commons are also understood within a cultural sphere. These commons include literature, music, arts, design, film, video, television, radio, information, software and sites of heritage. The commons can also include public goods such as public space, public education, health and the infrastructure that allows our society to function such as electricity or water delivery systems.&quot;) for ideas. Since copyright laws regulate ownership of software, written material, pictures and other creative works, it is important for social justice organizations to understand the politics of copyright as it relates to their activities. Specifically, how misuse of copyright [limits creativity, reduces sharing](http://www.economist.com/node/2592996) and hampers the movement.
 
-&lt;h1 id=&quot;copyright-and-social-justice-organizations&quot;&gt;Copyright and Social Justice Organizations&lt;/h1&gt;
+The politics that define ownership of printed documents and software are not as unrelated as they seem at first glance. Sharing written works with a Creative Commons license is the kid brother to the sharing code in the open source movement. In fact, less restrictive copyright licences come from the software world and we owe the growing commons of ideas and artistic works to the copyright freedom fighters in the free and open software worlds. Richard Stallman, a [free software](https://gnu.org/philosophy/15-years-of-free-software.html) guru who championed the free software [GNU licence](https://gnu.org/licenses/gpl.html) is what makes much of the sharing possible. It is certainly the work of the free software movement that established the alternative to intellectual property rights regimes that seek to lock-down knowledge in a proprietary ownership model.
 
-&lt;p&gt;For anyone who has been involved in a social justice organizations, a lot of time is dedicated to discussions about avoiding contradictions between the content of our arguments and the actions that we take. The need to avoid these kinds of contradictions is one good reason the issue of copyright and intellectual property cannot be confined to fact sheets or internal briefing notes.&lt;/p&gt;
 
-&lt;p&gt;Part of the fight for space to engage in collective action is taking back control of the tools of the struggle for social justice. Anything that regulates how we communicate our ideas like copyright cannot be the domain of just a few policy geeks if we are to win.&lt;/p&gt;
+# Copyright and Social Justice Organizations
 
-&lt;p&gt;To build our understanding of how we fit in the economy and society (&lt;a href=&quot;https://en.wikipedia.org/wiki/History_and_Class_Consciousness&quot;&gt;“consciousness”&lt;/a&gt;) it is important to understand the rules set down by our society when it comes to intellectual property ownership. These rules dictate how our ideas are able to be distributed to those we are trying to reach. They also dictate who owns those ideas. It is the whole package – from &lt;a href=&quot;https://www.marxists.org/archive/pilling/works/capital/pilling2.htm&quot;&gt;design of the flyer to words on the page&lt;/a&gt; – that is important to ensure that our actions are not working at cross purposes and undermining the broader movement.&lt;/p&gt;
+For anyone who has been involved in a social justice organizations, a lot of time is dedicated to discussions about avoiding contradictions between the content of our arguments and the actions that we take. The need to avoid these kinds of contradictions is one good reason the issue of copyright and intellectual property cannot be confined to fact sheets or internal briefing notes.
 
-&lt;p&gt;We communicate in world where certain social and economic rules – like those rules that govern work and employment – have been defined for us. Copyright laws are &lt;a href=&quot;http://www.laquadrature.net/en/the-eu-commissions-outrageous-attempt-to-avoid-copyright-reform&quot;&gt;currently being shaped&lt;/a&gt; to fit the interest of the private sector and lock-down knowledge. However, like some laws governing workers rights, copyright can also be used as a tool by social justice organizations to &lt;a href=&quot;https://en.wikipedia.org/wiki/Gratis_versus_libre&quot;&gt;free&lt;/a&gt; knowledge.&lt;/p&gt;
+Part of the fight for space to engage in collective action is taking back control of the tools of the struggle for social justice. Anything that regulates how we communicate our ideas like copyright cannot be the domain of just a few policy geeks if we are to win.
 
-&lt;p&gt;The goal of defining ownership rules for products of the social justice movement is not the struggle for an individualized system of control of our works. Instead, like the struggle for public ownership of property and social services, the struggle for fair copyright laws and copyleft licensing is about protecting the collective ownership of knowledge.&lt;/p&gt;
+To build our understanding of how we fit in the economy and society \([&quot;consciousness&quot;](https://en.wikipedia.org/wiki/History_and_Class_Consciousness)\) it is important to understand the rules set down by our society when it comes to intellectual property ownership. These rules dictate how our ideas are able to be distributed to those we are trying to reach. They also dictate who owns those ideas. It is the whole package -- from [design of the flyer to words on the page](https://www.marxists.org/archive/pilling/works/capital/pilling2.htm) -- that is important to ensure that our actions are not working at cross purposes and undermining the broader movement.
 
-&lt;p&gt;The purpose of social movements taking “ownership” of their work is so that ownership can distributed to all workers instead of being owned privately where redistribution is restricted to those that can pay. Different types of copyleft license can also ensure that future works and ideas that build on our ideas are not re-privatized so they can benefit future generations equally.&lt;/p&gt;
 
-&lt;p&gt;Starting the conversation about copyright issues in the current context may be as easy as debating organizational policy for copyright. The first step may be to identify less restrictive copyright (i.e., &lt;a href=&quot;http://citizenspress.org/editorials/copyright-academy#section-8&quot;&gt;copyleft&lt;/a&gt;) or &lt;a href=&quot;http://citizenspress.org/editorials/copyright-academy#section-9&quot;&gt;Creative Commons&lt;/a&gt; licences to cover your materials. Engaging in democratic discussions on policy is the starting point for consciousness raising for many issues even more complex than copyright. There is no reason to avoid this discussion for fear of people “not getting it”.&lt;/p&gt;
+We communicate in world where certain social and economic rules -- like those rules that govern work and employment -- have been defined for us. Copyright laws are [currently being shaped](http://www.laquadrature.net/en/the-eu-commissions-outrageous-attempt-to-avoid-copyright-reform) to fit the interest of the private sector and lock-down knowledge. However, like some laws governing workers rights, copyright can also be used as a tool by social justice organizations to [free](https://en.wikipedia.org/wiki/Gratis_versus_libre) knowledge.
 
-&lt;p&gt;At the start of the discussion, raising the issues of ownership and rights to distribute social justice documents will seem a rather simple issue. However, once a few questions are posed it will become obvious that different answers can limit or strengthen the movement.&lt;/p&gt;
+The goal of defining ownership rules for products of the social justice movement is not the struggle for an individualized system of control of our works. Instead, like the struggle for public ownership of property and social services, the struggle for fair copyright laws and copyleft licensing is about protecting the collective ownership of knowledge.
 
-&lt;p&gt;Once a policy is adopted marking each publication, product or picture where the regular copyright notice would go (e.g., on the inside front cover just under the address) with the appropriate copyleft license is the next step. Further to this, a “for more information see this URL” should accompany the copyleft notice for anyone interested in how your organization came to this position.&lt;/p&gt;
+The purpose of social movements taking &quot;ownership&quot; of their work is so that ownership can distributed to all workers instead of being owned privately where redistribution is restricted to those that can pay. Different types of copyleft license can also ensure that future works and ideas that build on our ideas are not re-privatized so they can benefit future generations equally.
 
-&lt;p&gt;While the impact of changing this copyright mark might seem small, topics of ownership and distribution rights (and citation or ability to modify) for products can be used as part of a conversation about why issues as seemingly esoteric as copyright actually affect all of us.&lt;/p&gt;
+Starting the conversation about copyright issues in the current context may be as easy as debating organizational policy for copyright. The first step may be to identify less restrictive copyright \(i.e., [copyleft](http://citizenspress.org/editorials/copyright-academy#section-8)\) or [Creative Commons](http://citizenspress.org/editorials/copyright-academy#section-9) licences to cover your materials. Engaging in democratic discussions on policy is the starting point for consciousness raising for many issues even more complex than copyright. There is no reason to avoid this discussion for fear of people &quot;not getting it&quot;.
 
-&lt;h1 id=&quot;questions-of-copyright&quot;&gt;Questions of Copyright&lt;/h1&gt;
+At the start of the discussion, raising the issues of ownership and rights to distribute social justice documents will seem a rather simple issue. However, once a few questions are posed it will become obvious that different answers can limit or strengthen the movement.
 
-&lt;p&gt;Some questions to answer with regards to copyright and licensing of products that result from intellectual labour of your members and staff:&lt;/p&gt;
+Once a policy is adopted marking each publication, product or picture where the regular copyright notice would go (e.g., on the inside front cover just under the address) with the appropriate copyleft license is the next step. Further to this, a &quot;for more information see this URL&quot; should accompany the copyleft notice for anyone interested in how your organization came to this position.
 
-&lt;ol&gt;
-  &lt;li&gt;Many social justice organizations are not incorporated, who owns the copyright for documents created by staff and members?&lt;/li&gt;
-  &lt;li&gt;Does your social justice organization have a permissive licence for all of its work? How do members, locals or public know they can copy, redistribute, reuse, re-purpose documents produced by your organization?&lt;/li&gt;
-  &lt;li&gt;Would your social justice organization allow its copyrighted products be used by some other publisher to reproduce for profit and/or not-for-profit purposes?&lt;/li&gt;
-  &lt;li&gt;What are the attribution requirements for works produced by your organization? Do they change depending on the work?&lt;/li&gt;
-  &lt;li&gt;What copyrights or trademarks does your organization control? Does it own the trademark for its names and slogans? If not, how do we protect the your brand from private sector theft?&lt;/li&gt;
-  &lt;li&gt;Should your organization explore policy to be specific about copyright on products it produces?&lt;/li&gt;
-  &lt;li&gt;Should your organization explore the use of Creative Commons or other less restrictive copyright licences for its software and documents?&lt;/li&gt;
-&lt;/ol&gt;</content><category term="articles" /><category term="politics" /><category term="copyright" /><category term="copyleft" /><category term="creative commons" /><summary type="html">Raising Consciousness on Copyright Issues</summary></entry><entry><title type="html">Politics and Software</title><link href="https://citizenspress.github.io/articles/Politics-and-Software/" rel="alternate" type="text/html" title="Politics and Software" /><published>2014-02-02T00:00:00-05:00</published><updated>2014-02-02T00:00:00-05:00</updated><id>https://citizenspress.github.io/articles/Politics-and-Software</id><content type="html" xml:base="https://citizenspress.github.io/articles/Politics-and-Software/">&lt;h1 id=&quot;politics-of-software-development-and-implementation&quot;&gt;Politics of Software Development and Implementation&lt;/h1&gt;
+While the impact of changing this copyright mark might seem small, topics of ownership and distribution rights (and citation or ability to modify) for products can be used as part of a conversation about why issues as seemingly esoteric as copyright actually affect all of us.
 
-&lt;p&gt;There is an important political economy to software. The online journal &lt;a href=&quot;http://journals.uic.edu/ojs/index.php/fm/index&quot;&gt;First Monday&lt;/a&gt; has many articles that delve into this political economy, but I hope to outline some of these issues in subsequent posts on this site. For now, it is sufficient to say that software has a growing impact on and is directly and indirectly influenced by our every day lives, the economy and broader society.&lt;/p&gt;
 
-&lt;p&gt;Of course it is not just the user-end that is influence by politics. From conceptual framework to production version and updates, each part of its development is affected by the politics of those involved.&lt;/p&gt;
+# Questions of Copyright
 
-&lt;p&gt;Legislation regulates “intellectual property” and copyright of the code, funding directs and/or limits its development. Hackers write code and have their own politics about sharing and community that influences the way the software is used. Similarly, many software developers are workers as well as volunteer and hobbyist hackers which can add an interesting conflict at times.&lt;/p&gt;
+Some questions to answer with regards to copyright and licensing of products that result from intellectual labour of your members and staff:
 
-&lt;p&gt;End users put software into practise to ends sometimes not envisioned by the creators and owners. This in turn can have an impact on how law makers regulate or talk about software.&lt;/p&gt;
+1. Many social justice organizations are not incorporated, who owns the copyright for documents created by staff and members?
+2. Does your social justice organization have a permissive licence for all of its work? How do members, locals or public know they can copy, redistribute, reuse, re-purpose documents produced by your organization?
+3. Would your social justice organization allow its copyrighted products be used by some other publisher to reproduce for profit and/or not-for-profit purposes?
+4. What are the attribution requirements for works produced by your organization? Do they change depending on the work?
+5. What copyrights or trademarks does your organization control? Does it own the trademark for its names and slogans? If not, how do we protect the your brand from private sector theft?
+6. Should your organization explore policy to be specific about copyright on products it produces?
+7. Should your organization explore the use of Creative Commons or other less restrictive copyright licences for its software and documents?</content><category term="articles" /><category term="politics" /><category term="copyright" /><category term="copyleft" /><category term="creative commons" /><summary type="html">Raising Consciousness on Copyright Issues</summary></entry><entry><title type="html">Politics and Software</title><link href="https://citizenspress.github.io/articles/Politics-and-Software/" rel="alternate" type="text/html" title="Politics and Software" /><published>2014-02-02T00:00:00-05:00</published><updated>2014-02-02T00:00:00-05:00</updated><id>https://citizenspress.github.io/articles/Politics-and-Software</id><content type="html" xml:base="https://citizenspress.github.io/articles/Politics-and-Software/"># Politics of Software Development and Implementation
 
-&lt;p&gt;Software is not neutral.&lt;/p&gt;
+There is an important political economy to software. The online journal [First Monday](http://journals.uic.edu/ojs/index.php/fm/index) has many articles that delve into this political economy, but I hope to outline some of these issues in subsequent posts on this site. For now, it is sufficient to say that software has a growing impact on and is directly and indirectly influenced by our every day lives, the economy and broader society.
 
-&lt;p&gt;Just as in the production of art or building cities, software development lives in a dynamic ecosystem of history and politics that expresses itself with its own internal logic and accompanying contradictions. The end result can range from the useful to the inane, from the closed and secretive to the open and beautiful. It can help expand freedom for those that use it or be used to oppress.&lt;/p&gt;
+Of course it is not just the user-end that is influence by politics. From conceptual framework to production version and updates, each part of its development is affected by the politics of those involved.
 
-&lt;p&gt;As software and “information technology” become ever more integral to daily life, and its use more normalised and obscured, it becomes increasingly important to understand software’s political economy. Of course, there are undisputed masters in the domain of software politics – just as there are within any major component of society and the economy. However, it is the popular understanding and application of this analysis that interests me. The main question is how can workers become empowered both in and outside programming circles to shape this politics and advance society in a direction that is informed, enlightened, democratic and in the interests of those that work for fairness and progress.&lt;/p&gt;
+Legislation regulates &quot;intellectual property&quot; and copyright of the code, funding directs and/or limits its development. Hackers write code and have their own politics about sharing and community that influences the way the software is used. Similarly, many software developers are workers as well as volunteer and hobbyist hackers which can add an interesting conflict at times.
 
-&lt;p&gt;If people are unaware of software’s inherent political nature then the implementation and framing of it can be very contradictory and alienating. I have seen these contradictions undermine major initiatives and, in the long run, undermine the interests of those the initiatives seek to support. It can also be &lt;a href=&quot;http://www.ft.com/intl/cms/s/2/794bbb56-1f8e-11e3-8861-00144feab7de.html&quot;&gt;incredibly expensive&lt;/a&gt;.&lt;/p&gt;
+End users put software into practise to ends sometimes not envisioned by the creators and owners. This in turn can have an impact on how law makers regulate or talk about software.
 
-&lt;p&gt;I argue that the political economy of software is even more important for those engaged in the struggle for social justice. Our organisations do not have the resources that governments and oligopoly corporations have. Social justice organisations also have a mission that is expressed through the actions they take. So, it is not only expensive in terms of money wasted but also in the waste caused when not building software with like-minded organisations and movements.&lt;/p&gt;
+Software is not neutral.
 
-&lt;p&gt;It is for this reason social justice organisations are doing themselves and the movement a disservice by not seriously considering Open Source and Free Software politics when it comes to decisions around the software they use.&lt;/p&gt;</content><category term="articles" /><category term="politics" /><summary type="html">Politics of Software Development and Implementation</summary></entry><entry><title type="html">Joining the Community</title><link href="https://citizenspress.github.io/article/Test-Post/" rel="alternate" type="text/html" title="Joining the Community" /><published>2014-01-30T00:00:00-05:00</published><updated>2014-01-30T00:00:00-05:00</updated><id>https://citizenspress.github.io/article/Test-Post</id><content type="html" xml:base="https://citizenspress.github.io/article/Test-Post/">&lt;h1 id=&quot;joining-the-community&quot;&gt;Joining the Community&lt;/h1&gt;
+Just as in the production of art or building cities, software development lives in a dynamic ecosystem of history and politics that expresses itself with its own internal logic and accompanying contradictions. The end result can range from the useful to the inane, from the closed and secretive to the open and beautiful. It can help expand freedom for those that use it or be used to oppress.
 
-&lt;p&gt;I do not work in the world of technology. I do not code at work except maybe a little SQL work from time to time. However, I have been using Linux as a main desktop since sometime around 1998. I think it is about time I joined the community.&lt;/p&gt;</content><category term="article" /><category term="Ramblings" /><summary type="html">Joining the Community</summary></entry></feed>
+As software and &quot;information technology&quot; become ever more integral to daily life, and its use more normalised and obscured, it becomes increasingly important to understand software's political economy. Of course, there are undisputed masters in the domain of software politics -- just as there are within any major component of society and the economy. However, it is the popular understanding and application of this analysis that interests me. The main question is how can workers become empowered both in and outside programming circles to shape this politics and advance society in a direction that is informed, enlightened, democratic and in the interests of those that work for fairness and progress.
+
+If people are unaware of software's inherent political nature then the implementation and framing of it can be very contradictory and alienating. I have seen these contradictions undermine major initiatives and, in the long run, undermine the interests of those the initiatives seek to support. It can also be [incredibly expensive](http://www.ft.com/intl/cms/s/2/794bbb56-1f8e-11e3-8861-00144feab7de.html).
+
+I argue that the political economy of software is even more important for those engaged in the struggle for social justice. Our organisations do not have the resources that governments and oligopoly corporations have. Social justice organisations also have a mission that is expressed through the actions they take. So, it is not only expensive in terms of money wasted but also in the waste caused when not building software with like-minded organisations and movements.
+
+It is for this reason social justice organisations are doing themselves and the movement a disservice by not seriously considering Open Source and Free Software politics when it comes to decisions around the software they use.</content><category term="articles" /><category term="politics" /><summary type="html">Politics of Software Development and Implementation</summary></entry><entry><title type="html">Joining the Community</title><link href="https://citizenspress.github.io/article/Test-Post/" rel="alternate" type="text/html" title="Joining the Community" /><published>2014-01-30T00:00:00-05:00</published><updated>2014-01-30T00:00:00-05:00</updated><id>https://citizenspress.github.io/article/Test-Post</id><content type="html" xml:base="https://citizenspress.github.io/article/Test-Post/"># Joining the Community
+
+I do not work in the world of technology. I do not code at work except maybe a little SQL work from time to time. However, I have been using Linux as a main desktop since sometime around 1998. I think it is about time I joined the community.</content><category term="article" /><category term="Ramblings" /><summary type="html">Joining the Community</summary></entry></feed>
