@@ -9,7 +9,8 @@ image:
 comments: false
 share: true
 ---
-Table of Contents {:toc}
+* Table of Contents 
+{:toc}
 
 Background
 ==========
