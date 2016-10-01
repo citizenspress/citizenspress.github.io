@@ -1,26 +1,19 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2014-08-08T19:44:38.564948-04:00
+permalink: /about/
+title: About This Project
+tags: [About, Projects]
+modified: 2013-09-13
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+I do not work in the world of technology. I do not code at work except maybe a little SQL work from time to time. However, I have been using GNU/Linux as a main desktop since sometime around 1998. I became an open source and free software evangelist at some point later that year and never looked back.
 
-## So Simple Theme is all about:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+# Posts
 
-[^1]: Example: *domain.com/category-name/post-title*
+I regularly post on other websites. However, I have never felt those spaces allowed for full immergence in issues of technology and my passion for amateur engagement with code.
+
+At the beginning, I saw software as a tool to support the projects I was working on. However, I did not know at the time that the new tools I set upon to learn would have such a major impact on my life outside of just using them for this or that project. Learning to code and using some of the tools in GNU/Linux (can someone really learn all of them?) have allowed me to learn the good kind of patience and think more strategically and clearly about problems outside of the software universe.
+
