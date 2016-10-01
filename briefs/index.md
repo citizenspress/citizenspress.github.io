@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog
+title: Briefing Notes
 excerpt: "An archive of briefs sorted by date."
 search_omit: true
 ---
