@@ -3,7 +3,7 @@
   
     {
       "title"			: "Ontario Renewable Procurement Cancellation",
-      "link"			: "https://citizenspress.github.io/articles/Brief-Ontario-Renewals/",
+      "link"			: "https://citizenspress.github.io/briefs/Brief-Ontario-Renewals/",
       "excerpt"		: "Background"
     }
   
@@ -13,14 +13,6 @@
       "title"			: "Open Source Software -- a necessary tool to build our movements",
       "link"			: "https://citizenspress.github.io/articles/Open-Source-Movement/",
       "excerpt"		: "We use software constantly: on our phones, on our computers, in cars,televisions and other devices we use daily. The way software is made,however, remains foreign to most people. Many academics have tried torebrand the work done by designers and coders of software as “knowledgework” in an effort to set it apart from other types of work. Theknowledge work is separated simply because the end product is intangibleand the workplace is more geographically amorphous. Make no mistake,those hordes of coders and developers typing away at their computers areworkers just as much as the auto assembly line worker or the steel plantworker, and their conditions are just as oppressive."
-    }
-  
-
-  
-    ,{
-      "title"			: "MathJax Example",
-      "link"			: "https://citizenspress.github.io/blog/mathjax-example/",
-      "excerpt"		: "MathJax is a simple way of including Tex/LaTex/MathML based mathematics in HTML webpages. To get up and running you need to include the MathJax script in the header of your github pages page, and then write some maths. For LaTex, there are two delimiters you need to know about, one for block or displayed mathematics  ... , and the other for inline mathematics  ... ."
     }
   
 
@@ -37,14 +29,6 @@
       "title"			: "Technology Transition in (Progressive) Organizations",
       "link"			: "https://citizenspress.github.io/articles/Tech-Transfer/",
       "excerpt"		: ""
-    }
-  
-
-  
-    ,{
-      "title"			: "Hello World",
-      "link"			: "https://citizenspress.github.io/blog/hello-world/",
-      "excerpt"		: "You’ll find this post in your _posts directory - edit this post and re-build (or run with the -w switch) to see your changes!To add new posts, simply add a file in the _posts directory that follows the convention: YYYY-MM-DD-name-of-post.ext."
     }
   
 
@@ -77,14 +61,6 @@
   
 
   
-    ,{
-      "title"			: "About This Project",
-      "link"			: "https://citizenspress.github.io/about/",
-      "excerpt"		: ""
-    }
-  
-
-  
 
   
 
@@ -94,9 +70,9 @@
 
   
     ,{
-      "title"			: "About the Jekyll Theme",
+      "title"			: "About This Project",
       "link"			: "https://citizenspress.github.io/about/",
-      "excerpt"		: "So Simple is a responsive Jekyll theme for your words and images."
+      "excerpt"		: ""
     }
   
 
