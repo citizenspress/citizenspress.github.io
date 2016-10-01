@@ -9,12 +9,15 @@
 <meta name="description" content="An archive of posts sorted by tag.">
 
 
+
 <!-- Twitter Cards -->
-<meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="https://citizenspress.github.io/images/logo.png">
 <meta name="twitter:title" content="Tag Index">
 <meta name="twitter:description" content="An archive of posts sorted by tag.">
-<meta name="twitter:creator" content="@https://twitter.com/leftnewsorg">
+<meta name="twitter:site" content="@leftnewsorg">
+<meta name="twitter:creator" content="@leftnewsorg">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://citizenspress.github.io/images/logo.png">
 
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
@@ -31,21 +34,31 @@
 <link rel="canonical" href="https://citizenspress.github.io/tags/">
 <link href="https://citizenspress.github.io/feed.xml" type="application/atom+xml" rel="alternate" title="Graham Cox Feed">
 
-
-<!-- http://t.co/dKP3o1e -->
+<!-- https://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="https://citizenspress.github.io/assets/css/main.min.css">
+<link rel="stylesheet" href="https://citizenspress.github.io/assets/css/main.css">
 <!-- Webfonts -->
-<script src="//use.edgefonts.net/source-sans-pro:n2,i2,n3,i3,n4,i4,n6,i6,n7,i7,n9,i9;source-code-pro:n4,n7;volkhov.js"></script>
+<script src="https://use.edgefonts.net/source-sans-pro:n2,i2,n3,i3,n4,i4,n6,i6,n7,i7,n9,i9;source-code-pro:n4,n7;volkhov.js"></script>
 
 <meta http-equiv="cleartype" content="on">
 
-<!-- Load Modernizr -->
-<script src="https://citizenspress.github.io/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+<!-- HTML5 Shiv and Media Query Support -->
+<!--[if lt IE 9]>
+  <script src="https://citizenspress.github.io/assets/js/vendor/html5shiv.min.js"></script>
+  <script src="https://citizenspress.github.io/assets/js/vendor/respond.min.js"></script>
+<![endif]-->
+
+<!-- Modernizr -->
+<script src="https://citizenspress.github.io/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+
+
+<!-- MathJax -->
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
 
 <!-- Icons -->
 <!-- 16x16 -->
@@ -68,50 +81,39 @@
 <div class="navigation-wrapper">
 	<nav role="navigation" id="site-nav" class="animated drop">
 	    <ul>
-	        
-			<li>
-				
-					<a href="https://citizenspress.github.io/about/">About</a>
-				 
-			</li>
-	        
-			<li>
-				
-					<a href="https://citizenspress.github.io/articles/">Articles</a>
-				 
-			</li>
-	        
-			<li>
-				
-					<a href="http://cpress.org">Citizens' Press</a>
-				 
-			</li>
-	        
-	        <li><a href="https://citizenspress.github.io/feed.xml" title="Atom/RSS feed"><i class="icon-rss"></i> Feed</a></li>
-	        <li class="dosearch"><i class="icon-search"></i> Search</li>
+      
+		    
+		    <li><a href="https://citizenspress.github.io/about/" >About</a></li>
+		  
+		    
+		    <li><a href="https://citizenspress.github.io/articles/" >Articles</a></li>
+		  
+		    
+		    <li><a href="https://citizenspress.github.io/blog/" >Blog</a></li>
+		  
+		    
+		    <li><a href="https://citizenspress.github.io/theme-setup/" >Theme Setup</a></li>
+		  
+		    
+		    <li><a href="https://citizenspress.github.io/search/" >Search</a></li>
+		  
 	    </ul>
 	</nav>
 </div><!-- /.navigation-wrapper -->
 
 <!--[if lt IE 9]><div class="upgrade"><strong><a href="http://whatbrowser.org/">Your browser is quite old!</strong> Why not upgrade to a different browser to better enjoy this site?</a></div><![endif]-->
 
-<div class="search-wrapper">
-	<div class="search-form">
-		<input type="text" class="search-field" placeholder="Search...">
-		<i class="icon-remove-sign icon-2x"></i>
-		<ul class="search-results post-list"></ul><!-- /.search-results -->
-	</div><!-- /.search-form -->
-</div><!-- ./search-wrapper -->
-
 <header class="masthead">
 	<div class="wrap">
-        
-    		<a href="https://citizenspress.github.io" class="site-logo" rel="home" title="Graham Cox"><img src="https://citizenspress.github.io/images/logo.png" width="200" height="200" alt="Graham Cox logo" class="animated fadeInUp"></a>
-        
-        <h1 class="site-title animated fadeIn"><a href="https://citizenspress.github.io">Graham Cox</a></h1>
+      
+  		<a href="https://citizenspress.github.io/" class="site-logo" rel="home" title="Graham Cox"><img src="https://citizenspress.github.io/images/logo.png" width="200" height="200" alt="Graham Cox logo" class="animated fadeInDown"></a>
+      
+      <h1 class="site-title animated fadeIn"><a href="https://citizenspress.github.io/">Graham Cox</a></h1>
 		<h2 class="site-description animated fadeIn" itemprop="description">Writing and Technology</h2>
 	</div>
 </header><!-- /.masthead -->
+
+<div class="js-menu-screen menu-screen"></div>
 
 
 <div id="main" role="main">
@@ -122,134 +124,190 @@
         <h1 class="entry-title">Tag Index</h1>
       </header>
       <div class="entry-content">
-        <ul class="tag-box inline">
+        
+<ul class="tag-box inline">
   
-  
-     
-    	<li><a href="#Ramblings">Ramblings <span>2</span></a></li>
-     
-    	<li><a href="#politics">politics <span>4</span></a></li>
-     
-    	<li><a href="#copyright">copyright <span>1</span></a></li>
-     
-    	<li><a href="#copyleft">copyleft <span>1</span></a></li>
-     
-    	<li><a href="#creative commons">creative commons <span>1</span></a></li>
-     
-    	<li><a href="#briefingnote">briefingnote <span>1</span></a></li>
     
+    <li><a href="#Ramblings">Ramblings <span>2</span></a></li>
   
-
+    
+    <li><a href="#briefingnote">briefingnote <span>1</span></a></li>
+  
+    
+    <li><a href="#code">code <span>1</span></a></li>
+  
+    
+    <li><a href="#copyleft">copyleft <span>1</span></a></li>
+  
+    
+    <li><a href="#copyright">copyright <span>1</span></a></li>
+  
+    
+    <li><a href="#creative commons">creative commons <span>1</span></a></li>
+  
+    
+    <li><a href="#highlighting">highlighting <span>1</span></a></li>
+  
+    
+    <li><a href="#images">images <span>1</span></a></li>
+  
+    
+    <li><a href="#intro">intro <span>1</span></a></li>
+  
+    
+    <li><a href="#link-post">link-post <span>1</span></a></li>
+  
+    
+    <li><a href="#politics">politics <span>4</span></a></li>
+  
+    
+    <li><a href="#readability">readability <span>3</span></a></li>
+  
+    
+    <li><a href="#sample-post">sample-post <span>8</span></a></li>
+  
+    
+    <li><a href="#test">test <span>3</span></a></li>
+  
+    
+    <li><a href="#video">video <span>1</span></a></li>
+  
 </ul>
 
- 
-	<h2 id="Ramblings">Ramblings</h2>
-	<ul class="post-list">
-		  
-		
-			
-			
-			<li><a href="https://citizenspress.github.io/articles/Open-Source-Movement/">Open Source Software -- a necessary tool to build our movements<span class="entry-date"><time datetime="2016-07-25T00:00:00-04:00">July 25, 2016</time></span></a></li>
-			
-			
-		
-			
-			
-			<li><a href="https://citizenspress.github.io/article/Test-Post/">Joining the Community<span class="entry-date"><time datetime="2014-01-30T00:00:00-05:00">January 30, 2014</time></span></a></li>
-			
-			
-		
-		
-		
-	</ul>
- 
-	<h2 id="politics">politics</h2>
-	<ul class="post-list">
-		  
-		
-			
-			
-			<li><a href="https://citizenspress.github.io/articles/Thirty-Years-GNU/">Celebrating 30 years of GNU and Free Software<span class="entry-date"><time datetime="2015-03-22T00:00:00-04:00">March 22, 2015</time></span></a></li>
-			
-			
-		
-			
-			
-			<li><a href="https://citizenspress.github.io/articles/Tech-Transfer/">Technology Transition in (Progressive) Organizations<span class="entry-date"><time datetime="2015-01-18T00:00:00-05:00">January 18, 2015</time></span></a></li>
-			
-			
-		
-			
-			
-			<li><a href="https://citizenspress.github.io/articles/Copyright-Social-Justice/">Copyright and Social Justice Organizations<span class="entry-date"><time datetime="2014-02-15T00:00:00-05:00">February 15, 2014</time></span></a></li>
-			
-			
-		
-			
-			
-			<li><a href="https://citizenspress.github.io/articles/Politics-and-Software/">Politics and Software<span class="entry-date"><time datetime="2014-02-02T00:00:00-05:00">February 02, 2014</time></span></a></li>
-			
-			
-		
-		
-		
-	</ul>
- 
-	<h2 id="copyright">copyright</h2>
-	<ul class="post-list">
-		  
-		
-			
-			
-			<li><a href="https://citizenspress.github.io/articles/Copyright-Social-Justice/">Copyright and Social Justice Organizations<span class="entry-date"><time datetime="2014-02-15T00:00:00-05:00">February 15, 2014</time></span></a></li>
-			
-			
-		
-		
-		
-	</ul>
- 
-	<h2 id="copyleft">copyleft</h2>
-	<ul class="post-list">
-		  
-		
-			
-			
-			<li><a href="https://citizenspress.github.io/articles/Copyright-Social-Justice/">Copyright and Social Justice Organizations<span class="entry-date"><time datetime="2014-02-15T00:00:00-05:00">February 15, 2014</time></span></a></li>
-			
-			
-		
-		
-		
-	</ul>
- 
-	<h2 id="creative commons">creative commons</h2>
-	<ul class="post-list">
-		  
-		
-			
-			
-			<li><a href="https://citizenspress.github.io/articles/Copyright-Social-Justice/">Copyright and Social Justice Organizations<span class="entry-date"><time datetime="2014-02-15T00:00:00-05:00">February 15, 2014</time></span></a></li>
-			
-			
-		
-		
-		
-	</ul>
- 
-	<h2 id="briefingnote">briefingnote</h2>
-	<ul class="post-list">
-		  
-		
-			
-			
-			<li><a href="https://citizenspress.github.io/articles/Brief-Ontario-Renewals/">Ontario Renewable Procurement Cancellation<span class="entry-date"><time datetime="2016-10-01T00:00:00-04:00">October 01, 2016</time></span></a></li>
-			
-			
-		
-		
-		
-	</ul>
+<h2 id="Ramblings">Ramblings</h2>
+<ul class="post-list">
+  
+    <li><a href="https://citizenspress.github.io/articles/Open-Source-Movement/">Open Source Software -- a necessary tool to build our movements<span class="entry-date"><time datetime="2016-07-25T00:00:00-04:00">July 25, 2016</time></span></a></li>
+  
+    <li><a href="https://citizenspress.github.io/article/Test-Post/">Joining the Community<span class="entry-date"><time datetime="2014-01-30T00:00:00-05:00">January 30, 2014</time></span></a></li>
+  
+  </ul>
+
+<h2 id="briefingnote">briefingnote</h2>
+<ul class="post-list">
+  
+    <li><a href="https://citizenspress.github.io/articles/Brief-Ontario-Renewals/">Ontario Renewable Procurement Cancellation<span class="entry-date"><time datetime="2016-10-01T00:00:00-04:00">October 01, 2016</time></span></a></li>
+  
+  </ul>
+
+<h2 id="code">code</h2>
+<ul class="post-list">
+  
+    <li><a href="https://citizenspress.github.io/articles/code-highlighting-post/">Syntax Highlighting Post<span class="entry-date"><time datetime="2013-08-16T00:00:00-04:00">August 16, 2013</time></span></a></li>
+  
+  </ul>
+
+<h2 id="copyleft">copyleft</h2>
+<ul class="post-list">
+  
+    <li><a href="https://citizenspress.github.io/articles/Copyright-Social-Justice/">Copyright and Social Justice Organizations<span class="entry-date"><time datetime="2014-02-15T00:00:00-05:00">February 15, 2014</time></span></a></li>
+  
+  </ul>
+
+<h2 id="copyright">copyright</h2>
+<ul class="post-list">
+  
+    <li><a href="https://citizenspress.github.io/articles/Copyright-Social-Justice/">Copyright and Social Justice Organizations<span class="entry-date"><time datetime="2014-02-15T00:00:00-05:00">February 15, 2014</time></span></a></li>
+  
+  </ul>
+
+<h2 id="creative commons">creative commons</h2>
+<ul class="post-list">
+  
+    <li><a href="https://citizenspress.github.io/articles/Copyright-Social-Justice/">Copyright and Social Justice Organizations<span class="entry-date"><time datetime="2014-02-15T00:00:00-05:00">February 15, 2014</time></span></a></li>
+  
+  </ul>
+
+<h2 id="highlighting">highlighting</h2>
+<ul class="post-list">
+  
+    <li><a href="https://citizenspress.github.io/articles/code-highlighting-post/">Syntax Highlighting Post<span class="entry-date"><time datetime="2013-08-16T00:00:00-04:00">August 16, 2013</time></span></a></li>
+  
+  </ul>
+
+<h2 id="images">images</h2>
+<ul class="post-list">
+  
+    <li><a href="https://citizenspress.github.io/articles/sample-post-images/">A Post with Images<span class="entry-date"><time datetime="2013-05-22T00:00:00-04:00">May 22, 2013</time></span></a></li>
+  
+  </ul>
+
+<h2 id="intro">intro</h2>
+<ul class="post-list">
+  
+    <li><a href="https://citizenspress.github.io/articles/readability-post/">Testing Readability with a Bunch of Text<span class="entry-date"><time datetime="2012-05-22T00:00:00-04:00">May 22, 2012</time></span></a></li>
+  
+  </ul>
+
+<h2 id="link-post">link-post</h2>
+<ul class="post-list">
+  
+    <li><a href="https://citizenspress.github.io/articles/sample-link-post/">Sample Link Post<span class="entry-date"><time datetime="2013-08-12T00:00:00-04:00">August 12, 2013</time></span></a></li>
+  
+  </ul>
+
+<h2 id="politics">politics</h2>
+<ul class="post-list">
+  
+    <li><a href="https://citizenspress.github.io/articles/Thirty-Years-GNU/">Celebrating 30 years of GNU and Free Software<span class="entry-date"><time datetime="2015-03-22T00:00:00-04:00">March 22, 2015</time></span></a></li>
+  
+    <li><a href="https://citizenspress.github.io/articles/Tech-Transfer/">Technology Transition in (Progressive) Organizations<span class="entry-date"><time datetime="2015-01-18T00:00:00-05:00">January 18, 2015</time></span></a></li>
+  
+    <li><a href="https://citizenspress.github.io/articles/Copyright-Social-Justice/">Copyright and Social Justice Organizations<span class="entry-date"><time datetime="2014-02-15T00:00:00-05:00">February 15, 2014</time></span></a></li>
+  
+    <li><a href="https://citizenspress.github.io/articles/Politics-and-Software/">Politics and Software<span class="entry-date"><time datetime="2014-02-02T00:00:00-05:00">February 02, 2014</time></span></a></li>
+  
+  </ul>
+
+<h2 id="readability">readability</h2>
+<ul class="post-list">
+  
+    <li><a href="https://citizenspress.github.io/articles/author-override/">Override Author Byline Test Post<span class="entry-date"><time datetime="2014-06-19T00:00:00-04:00">June 19, 2014</time></span></a></li>
+  
+    <li><a href="https://citizenspress.github.io/articles/readability-feature-post/">Post with Large Feature Image and Text<span class="entry-date"><time datetime="2013-05-23T00:00:00-04:00">May 23, 2013</time></span></a></li>
+  
+    <li><a href="https://citizenspress.github.io/articles/readability-post/">Testing Readability with a Bunch of Text<span class="entry-date"><time datetime="2012-05-22T00:00:00-04:00">May 22, 2012</time></span></a></li>
+  
+  </ul>
+
+<h2 id="sample-post">sample-post</h2>
+<ul class="post-list">
+  
+    <li><a href="https://citizenspress.github.io/articles/author-override/">Override Author Byline Test Post<span class="entry-date"><time datetime="2014-06-19T00:00:00-04:00">June 19, 2014</time></span></a></li>
+  
+    <li><a href="https://citizenspress.github.io/articles/code-highlighting-post/">Syntax Highlighting Post<span class="entry-date"><time datetime="2013-08-16T00:00:00-04:00">August 16, 2013</time></span></a></li>
+  
+    <li><a href="https://citizenspress.github.io/articles/sample-link-post/">Sample Link Post<span class="entry-date"><time datetime="2013-08-12T00:00:00-04:00">August 12, 2013</time></span></a></li>
+  
+    <li><a href="https://citizenspress.github.io/articles/video-post/">A Post with a Video<span class="entry-date"><time datetime="2013-06-25T00:00:00-04:00">June 25, 2013</time></span></a></li>
+  
+    <li><a href="https://citizenspress.github.io/articles/readability-feature-post/">Post with Large Feature Image and Text<span class="entry-date"><time datetime="2013-05-23T00:00:00-04:00">May 23, 2013</time></span></a></li>
+  
+    <li><a href="https://citizenspress.github.io/articles/sample-post-images/">A Post with Images<span class="entry-date"><time datetime="2013-05-22T00:00:00-04:00">May 22, 2013</time></span></a></li>
+  
+    <li><a href="https://citizenspress.github.io/articles/readability-post/">Testing Readability with a Bunch of Text<span class="entry-date"><time datetime="2012-05-22T00:00:00-04:00">May 22, 2012</time></span></a></li>
+  
+    <li><a href="https://citizenspress.github.io/articles/sample-post/">Sample Post<span class="entry-date"><time datetime="2011-03-10T00:00:00-05:00">March 10, 2011</time></span></a></li>
+  
+  </ul>
+
+<h2 id="test">test</h2>
+<ul class="post-list">
+  
+    <li><a href="https://citizenspress.github.io/articles/author-override/">Override Author Byline Test Post<span class="entry-date"><time datetime="2014-06-19T00:00:00-04:00">June 19, 2014</time></span></a></li>
+  
+    <li><a href="https://citizenspress.github.io/articles/sample-post-images/">A Post with Images<span class="entry-date"><time datetime="2013-05-22T00:00:00-04:00">May 22, 2013</time></span></a></li>
+  
+    <li><a href="https://citizenspress.github.io/articles/readability-post/">Testing Readability with a Bunch of Text<span class="entry-date"><time datetime="2012-05-22T00:00:00-04:00">May 22, 2012</time></span></a></li>
+  
+  </ul>
+
+<h2 id="video">video</h2>
+<ul class="post-list">
+  
+    <li><a href="https://citizenspress.github.io/articles/video-post/">A Post with a Video<span class="entry-date"><time datetime="2013-06-25T00:00:00-04:00">June 25, 2013</time></span></a></li>
+  
+  </ul>
 
       </div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->
@@ -257,63 +315,38 @@
 </div><!-- /#main -->
 
 <div class="footer-wrapper">
-  <footer role="contentinfo">
-    <span>&copy; 2016 Graham Cox. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://mademistakes.com/">So Simple Theme</a>.</span>
+  <footer role="contentinfo" class="entry-wrapper">
+    
+
+<span>&copy; 2016 Graham Cox. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="https://mademistakes.com/work/so-simple-jekyll-theme/" rel="nofollow">So Simple Theme</a>.</span>
 <div class="social-icons">
-	<a href="http://twitter.com/https://twitter.com/leftnewsorg" title="Graham Cox on Twitter" target="_blank"><i class="icon-twitter icon-2x"></i></a>
+	<a href="https://twitter.com/leftnewsorg" title="Graham Cox on Twitter" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>
 	
 	
 	
 	
 	
 	
-	<a href="http://github.com/https://github.com/citizenspress" title="Graham Cox on Github" target="_blank"><i class="icon-github icon-2x"></i></a>
+	<a href="https://github.com/citizenspress" title="Graham Cox on Github" target="_blank"><i class="fa fa-github-square fa-2x"></i></a>
 	
+  
+	
+  <a href="https://citizenspress.github.io/feed.xml" title="Atom/RSS feed"><i class="fa fa-rss-square fa-2x"></i></a>
 </div><!-- /.social-icons -->
+
   </footer>
 </div><!-- /.footer-wrapper -->
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript">
+  var BASE_URL = 'https://citizenspress.github.io';
+</script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="https://citizenspress.github.io/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
 <script src="https://citizenspress.github.io/assets/js/scripts.min.js"></script>
 
-<!-- Jekyll Simple Search option -->
-<script>
-  $(document).ready(function() {
-      $('.search-field').simpleJekyllSearch({
-          jsonFile : 'https://citizenspress.github.io/search.json',
-          searchResults : '.search-results',
-          template : '<li><article><a href="{url}">{title} <span class="entry-date"><time datetime="{date}">{shortdate}</time></span></a></article></li>',
-          noResults: '<p>Nothing found.</p>'
-        });
-  });
-
-  (function( $, window, undefined ) {
-    
-     var bs = {
-          close: $(".icon-remove-sign"),
-          searchform: $(".search-form"),
-          canvas: $("body"),
-          dothis: $('.dosearch')
-      };
-    
-    bs.dothis.on('click', function() {
-      $('.search-wrapper').css({ display: "block" });
-      bs.searchform.toggleClass('active');
-      bs.searchform.find('input').focus();
-      bs.canvas.toggleClass('search-overlay');
-    });
-    
-      bs.close.on('click', function() {
-        $('.search-wrapper').removeAttr( 'style' );
-        bs.searchform.toggleClass('active');
-        bs.canvas.removeClass('search-overlay');
-    });
-  })( jQuery, window );
-</script>
 
 
-          
 
 </body>
 </html>

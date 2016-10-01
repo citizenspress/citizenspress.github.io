@@ -5,22 +5,25 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title>About This Project &#8211; Graham Cox</title>
-<meta name="description" content="Writing and Technology">
-<meta name="keywords" content="About, Projects">
+<title>About the Jekyll Theme &#8211; Graham Cox</title>
+<meta name="description" content="So Simple is a responsive Jekyll theme for your words and images.">
+
+
 
 <!-- Twitter Cards -->
-<meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="https://citizenspress.github.io/images/logo.png">
-<meta name="twitter:title" content="About This Project">
-<meta name="twitter:description" content="Writing and Technology">
-<meta name="twitter:creator" content="@https://twitter.com/leftnewsorg">
+<meta name="twitter:title" content="About the Jekyll Theme">
+<meta name="twitter:description" content="So Simple is a responsive Jekyll theme for your words and images.">
+<meta name="twitter:site" content="@leftnewsorg">
+<meta name="twitter:creator" content="@leftnewsorg">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://citizenspress.github.io/images/so-simple-sample-image-4.jpg">
 
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="About This Project">
-<meta property="og:description" content="Writing and Technology">
+<meta property="og:title" content="About the Jekyll Theme">
+<meta property="og:description" content="So Simple is a responsive Jekyll theme for your words and images.">
 <meta property="og:url" content="https://citizenspress.github.io/about/">
 <meta property="og:site_name" content="Graham Cox">
 
@@ -31,21 +34,31 @@
 <link rel="canonical" href="https://citizenspress.github.io/about/">
 <link href="https://citizenspress.github.io/feed.xml" type="application/atom+xml" rel="alternate" title="Graham Cox Feed">
 
-
-<!-- http://t.co/dKP3o1e -->
+<!-- https://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="https://citizenspress.github.io/assets/css/main.min.css">
+<link rel="stylesheet" href="https://citizenspress.github.io/assets/css/main.css">
 <!-- Webfonts -->
-<script src="//use.edgefonts.net/source-sans-pro:n2,i2,n3,i3,n4,i4,n6,i6,n7,i7,n9,i9;source-code-pro:n4,n7;volkhov.js"></script>
+<script src="https://use.edgefonts.net/source-sans-pro:n2,i2,n3,i3,n4,i4,n6,i6,n7,i7,n9,i9;source-code-pro:n4,n7;volkhov.js"></script>
 
 <meta http-equiv="cleartype" content="on">
 
-<!-- Load Modernizr -->
-<script src="https://citizenspress.github.io/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+<!-- HTML5 Shiv and Media Query Support -->
+<!--[if lt IE 9]>
+  <script src="https://citizenspress.github.io/assets/js/vendor/html5shiv.min.js"></script>
+  <script src="https://citizenspress.github.io/assets/js/vendor/respond.min.js"></script>
+<![endif]-->
+
+<!-- Modernizr -->
+<script src="https://citizenspress.github.io/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+
+
+<!-- MathJax -->
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
 
 <!-- Icons -->
 <!-- 16x16 -->
@@ -68,67 +81,63 @@
 <div class="navigation-wrapper">
 	<nav role="navigation" id="site-nav" class="animated drop">
 	    <ul>
-	        
-			<li>
-				
-					<a href="https://citizenspress.github.io/about/">About</a>
-				 
-			</li>
-	        
-			<li>
-				
-					<a href="https://citizenspress.github.io/articles/">Articles</a>
-				 
-			</li>
-	        
-			<li>
-				
-					<a href="http://cpress.org">Citizens' Press</a>
-				 
-			</li>
-	        
-	        <li><a href="https://citizenspress.github.io/feed.xml" title="Atom/RSS feed"><i class="icon-rss"></i> Feed</a></li>
-	        <li class="dosearch"><i class="icon-search"></i> Search</li>
+      
+		    
+		    <li><a href="https://citizenspress.github.io/about/" >About</a></li>
+		  
+		    
+		    <li><a href="https://citizenspress.github.io/articles/" >Articles</a></li>
+		  
+		    
+		    <li><a href="https://citizenspress.github.io/blog/" >Blog</a></li>
+		  
+		    
+		    <li><a href="https://citizenspress.github.io/theme-setup/" >Theme Setup</a></li>
+		  
+		    
+		    <li><a href="https://citizenspress.github.io/search/" >Search</a></li>
+		  
 	    </ul>
 	</nav>
 </div><!-- /.navigation-wrapper -->
 
 <!--[if lt IE 9]><div class="upgrade"><strong><a href="http://whatbrowser.org/">Your browser is quite old!</strong> Why not upgrade to a different browser to better enjoy this site?</a></div><![endif]-->
 
-<div class="search-wrapper">
-	<div class="search-form">
-		<input type="text" class="search-field" placeholder="Search...">
-		<i class="icon-remove-sign icon-2x"></i>
-		<ul class="search-results post-list"></ul><!-- /.search-results -->
-	</div><!-- /.search-form -->
-</div><!-- ./search-wrapper -->
-
 <header class="masthead">
-	<div class="wrap">
-        
-    		<a href="https://citizenspress.github.io" class="site-logo" rel="home" title="Graham Cox"><img src="https://citizenspress.github.io/images/logo.png" width="200" height="200" alt="Graham Cox logo" class="animated fadeInUp"></a>
-        
-        <h1 class="site-title animated fadeIn"><a href="https://citizenspress.github.io">Graham Cox</a></h1>
-		<h2 class="site-description animated fadeIn" itemprop="description">Writing and Technology</h2>
-	</div>
+	
+		<div class="wrap">
+			<a href="https://citizenspress.github.io/" class="site-logo" rel="home" title="Graham Cox"><img src="https://citizenspress.github.io/images/logo.png" width="200" height="200" alt="Graham Cox logo" class="animated fadeInDown"></a>
+		</div>
+	
 </header><!-- /.masthead -->
+
+
+<div class="js-menu-screen menu-screen"></div>
 
 
 <div id="main" role="main">
   <article class="entry">
-    
+    <img src="https://citizenspress.github.io/images/so-simple-sample-image-4.jpg" class="entry-feature-image" alt="About the Jekyll Theme" ><p class="image-credit">Photo Credit: <a href="http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/">WeGraphics</a></p>
     <div class="entry-wrapper">
       <header class="entry-header">
-        <h1 class="entry-title">About This Project</h1>
+        <h1 class="entry-title">About the Jekyll Theme</h1>
       </header>
       <div class="entry-content">
-        <p>I do not work in the world of technology. I do not code at work except maybe a little SQL work from time to time. However, I have been using GNU/Linux as a main desktop since sometime around 1998. I became an open source and free software evangelist at some point later that year and never looked back.</p>
+        <p>Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be <strong>So Simple Theme</strong>, the follow up to <a href="http://mmistakes.github.io/minimal-mistakes"><strong>Minimal Mistakes</strong></a> — by designer slash illustrator <a href="http://mademistakes.com">Michael Rose</a>.</p>
 
-<h1 id="posts">Posts</h1>
+<h2 id="so-simple-theme-is-all-about">So Simple Theme is all about:</h2>
 
-<p>I regularly post on other websites. However, I have never felt those spaces allowed for full immergence in issues of technology and my passion for amateur engagement with code.</p>
+<ul>
+  <li>Responsive templates. Looking good on mobile, tablet, and desktop.</li>
+  <li>Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.</li>
+  <li>Minimal embellishments and subtle animations.</li>
+  <li>Optional large feature images for posts and pages.</li>
+  <li><a href="https://citizenspress.github.io/404.html">Custom 404 page</a> to get you started.</li>
+  <li><a href="https://github.com/christian-fei/Simple-Jekyll-Search">Simple site search</a></li>
+  <li>Support for Disqus Comments</li>
+</ul>
 
-<p>At the beginning, I saw software as a tool to support the projects I was working on. However, I did not know at the time that the new tools I set upon to learn would have such a major impact on my life outside of just using them for this or that project. Learning to code and using some of the tools in GNU/Linux (can someone really learn all of them?) have allowed me to learn the good kind of patience and think more strategically and clearly about problems outside of the software universe.</p>
+<p><a href="https://citizenspress.github.io/theme-setup" class="btn">Install So Simple Theme</a></p>
 
 
       </div><!-- /.entry-content -->
@@ -137,63 +146,38 @@
 </div><!-- /#main -->
 
 <div class="footer-wrapper">
-  <footer role="contentinfo">
-    <span>&copy; 2016 Graham Cox. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://mademistakes.com/">So Simple Theme</a>.</span>
+  <footer role="contentinfo" class="entry-wrapper">
+    
+
+<span>&copy; 2016 Graham Cox. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="https://mademistakes.com/work/so-simple-jekyll-theme/" rel="nofollow">So Simple Theme</a>.</span>
 <div class="social-icons">
-	<a href="http://twitter.com/https://twitter.com/leftnewsorg" title="Graham Cox on Twitter" target="_blank"><i class="icon-twitter icon-2x"></i></a>
+	<a href="https://twitter.com/leftnewsorg" title="Graham Cox on Twitter" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>
 	
 	
 	
 	
 	
 	
-	<a href="http://github.com/https://github.com/citizenspress" title="Graham Cox on Github" target="_blank"><i class="icon-github icon-2x"></i></a>
+	<a href="https://github.com/citizenspress" title="Graham Cox on Github" target="_blank"><i class="fa fa-github-square fa-2x"></i></a>
 	
+  
+	
+  <a href="https://citizenspress.github.io/feed.xml" title="Atom/RSS feed"><i class="fa fa-rss-square fa-2x"></i></a>
 </div><!-- /.social-icons -->
+
   </footer>
 </div><!-- /.footer-wrapper -->
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript">
+  var BASE_URL = 'https://citizenspress.github.io';
+</script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="https://citizenspress.github.io/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
 <script src="https://citizenspress.github.io/assets/js/scripts.min.js"></script>
 
-<!-- Jekyll Simple Search option -->
-<script>
-  $(document).ready(function() {
-      $('.search-field').simpleJekyllSearch({
-          jsonFile : 'https://citizenspress.github.io/search.json',
-          searchResults : '.search-results',
-          template : '<li><article><a href="{url}">{title} <span class="entry-date"><time datetime="{date}">{shortdate}</time></span></a></article></li>',
-          noResults: '<p>Nothing found.</p>'
-        });
-  });
-
-  (function( $, window, undefined ) {
-    
-     var bs = {
-          close: $(".icon-remove-sign"),
-          searchform: $(".search-form"),
-          canvas: $("body"),
-          dothis: $('.dosearch')
-      };
-    
-    bs.dothis.on('click', function() {
-      $('.search-wrapper').css({ display: "block" });
-      bs.searchform.toggleClass('active');
-      bs.searchform.find('input').focus();
-      bs.canvas.toggleClass('search-overlay');
-    });
-    
-      bs.close.on('click', function() {
-        $('.search-wrapper').removeAttr( 'style' );
-        bs.searchform.toggleClass('active');
-        bs.canvas.removeClass('search-overlay');
-    });
-  })( jQuery, window );
-</script>
 
 
-          
 
 </body>
 </html>
