@@ -16,7 +16,7 @@ Background
 
 Electricity generation in Ontario is provided through a mix of Nuclear, Hydro, natural gas, reserve and solar/wind/biomass generation.
 
-![Installed generation capacity in Ontario (2015)]({{https://plot.ly/~cpress/19/?share_key=Fwq8smDaNZHGrcDjuy20pE}} /images/Ontario-supply.png "supply")
+[![Installed generation capacity in Ontario (2015)](/Ontario-supply.png "supply")](https://plot.ly/~cpress/19/?share_key=Fwq8smDaNZHGrcDjuy20pE)
 
 ![Actual generation used in Ontario (160TWh total 2015)](./Downloads/Ontario-Generation.png "generation")
 
