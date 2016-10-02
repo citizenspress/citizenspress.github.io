@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Graham Cox
+title: Citizen's Press
 locale: en_US
-description: Writing and Technology
+description: Writing, Technology and Briefing Notes
 logo: logo.png
 search: true
 # url: localhost:4000
