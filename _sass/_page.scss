@@ -252,7 +252,6 @@ span + .entry-title {
 /*
    Kramdown generated table of contents
    ========================================================================== */
-
 #markdown-toc {
 	font-family: $alt-font;
 	margin-top: $gutter;
@@ -261,17 +260,21 @@ span + .entry-title {
 	border: 1px solid $border-color;
 	border-radius: $border-radius;
 
+
   ul {
-  	list-style-type: none;
+      list-style: decimal;
+      list-style-type: none;
   	padding-left: 0;
   }
 
   li {
     @include font-size(16,no,18);
     border-bottom: 1px solid $border-color;
+    list-style: decimal;
     list-style-type: none;
   }
 
+  
   h6 {
     margin: 0;
     padding: (.25 * $gutter) (.5 * $gutter);
@@ -290,6 +293,11 @@ span + .entry-title {
     }
   }
 }
+
+
+
+
+
 
 /*
    Tables
