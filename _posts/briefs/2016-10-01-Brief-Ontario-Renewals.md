@@ -50,7 +50,7 @@ The cancellation of the latest round of Large Renewable Procurement resulted in 
 
 The cancellation of the procurement will mean a slower increase in the growth of subsidized private electricity generation. CUPE's power workers, Progressive Conservatives and the NDP have been calling for the cancellation of new growth in subsidized power, albeit for slightly different reasons.
 
-The slow growth of storage capacity to deal with the increased solar and wind generation. We expect the upcoming (2017) Long-Term Energy Plan to deal with this in some detail.
+Contributing to the lack of need for growth in renewable contracts is the slow growth of storage capacity to deal with the increased solar and wind generation. We expect the upcoming (2017) Long-Term Energy Plan to deal with this in some detail.
 
 This cancellation does not affect projects already approved (see appendix) through the previous procurement process. The cancellation also does not affect large mostly public projects like the Nanticoke 44MW solar project (developed with SunEdison); OPG's partnership with the Taykwa Tagamou Nation 25 MW Peter Sutherland Sr. Generating Station, located in Northeast Ontario; and ​OPG proposed expansion of Ranney Falls Generating Station in Northumberland County to 20MW.
 
