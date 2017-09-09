@@ -98,7 +98,7 @@ If focus is something you are seeking (and who isn't, really?) you should use [i
 
 There are others options and obviously you do not *have* to use i3wm, but you *should*. Other window managers are all -- to varying degrees -- quite good. However, window managers should get out of your way and facilitate working on your computer. They should not take up precious screen space (do you really need to see the Firefox launch icon all the time? Why, are you scared it might accidentally uninstall itself?) and they should make your work flow as smooth as possible.
 
-![The i3 Window Manager with some customization.](articles/emacs.png)
+![The i3 Window Manager with some customization.](emacs.png)
 
 One screen for Mutt, Emacs, Firefox, terminal, graphical file manager, and other. Use screen 10 (modifier key + 0) as your temporary distraction. If you have a wide and beautiful screen, you can even put your email mailboxes (all of them in *Mutt*) and text editor on the same screen and be amazed at the efficiency, speed, and automatic movement in completing tasks.
 
