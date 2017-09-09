@@ -163,9 +163,9 @@ My Mutt is set-up to use the following programs:
 sudo apt install mutt urlview w3m mailutils sakura isync elinks pandoc
 ```
 
-![Mutt with a list of emails.](./articles/mutt.png)
+![Mutt with a list of emails.](mutt.png)
 
-![Mutt with an email open.](./articles/mutt2.png)
+![Mutt with an email open.](mutt2.png)
 
 Work and personal email accounts.
 ---------------------------------
@@ -263,7 +263,7 @@ But, in all seriousness, learning to use Emacs (or really any other advanced tex
 
 In addition, if you learn some [simple markup language](http://www.makeuseof.com/tag/markdown-4-reasons-learn-now/) like [Markdown](https://en.wikipedia.org/wiki/Markdown) or Org you will be well on your way to replacing MS Word for most of your writing needs even if they require some fancy formatting. Learning these "markup language" is super easy and the reality is you probably already know some Markdown. If you have ever put an "\*" on either side of a word to make bold in WhatsApp, you have coded using the Markdown markup language.
 
-![Emacs text editor open in i3 Window Manager with two frames open side by side. This is a screenshot of this article written in org-mode. [Click here](http://unionresearch.ca/linux/howto.org) to download the Org version of this document.](./articles/emacs.png)
+![Emacs text editor open in i3 Window Manager with two frames open side by side. This is a screenshot of this article written in org-mode. [Click here](http://unionresearch.ca/linux/howto.org) to download the Org version of this document.](emacs.png)
 
 To learn the basic editing features will not take that long and in the mean time, you can always use the drop-down menus if you get stuck. However, learning the shortcuts will make your writing and editing life simple and *fast*. Do not worry about the supposed "steep learning curve". Basic text editing is easy in Emacs, it can literally take you an afternoon to get used to it. And, once you do learn it, it will be there for you for a lifetime.
 
