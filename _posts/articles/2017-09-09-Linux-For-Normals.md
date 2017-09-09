@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The normal user's guide to using Linux
-description: "The purpose of this document is to outline how I work in Linux. While there are lots of documents online about how coders set-up and tinker with Linux, there are not many for normal users who want to become more proficient in their computer use."
+description: "The purpose of this document is to outline how I work in Linux, Mutt, Emacs, and i3 Window Manager. While there are lots of documents online about how coders set-up and tinker with Linux, there are not many for normal users who want to become more proficient in their computer use."
 modified: 2017-09-09
 category: articles
 tags: [howto]
@@ -14,7 +14,7 @@ share: true
 Introduction
 ============
 
-The purpose of this document is to outline how I work in Linux. While there are lots of documents online about how coders set-up and tinker with Linux, there are not many for normal users who want to become more proficient in their computer use.
+The purpose of this document is to outline how I work in Linux, Mutt, Emacs, and i3 Window Manager. While there are lots of documents online about how coders set-up and tinker with Linux, there are not many for normal users who want to become more proficient in their computer use.
 
 I think of myself as a normal user who uses Linux.
 
@@ -34,11 +34,11 @@ Perhaps you disagree with what I have defined as a "normal" user. Perhaps "semi-
 
 For some background, I started my Linux journey with the full-time use of a basic RedHat 6 install (in the late 1990s), eventually moving to [Fedora](https://getfedora.org/), and then settling on [Ubuntu](https://ubuntu.com).
 
-I generally dislike a lot about Ubuntu (especially their foray into Amazon partnerships and Unity desktop environment where I even moved to Debian Unstable for a while), but it just works and I am now familiar with the Debian package managers and system. I also like my programs up-to-date and Ubuntu repositories achieve this. I am sure that it is the case with most other systems, but the Ubuntu community is large and the answers to questions are readily available with a quick web search. I dream of one day moving to Arch, but that day is far off as I am too busy with work these days to move everything over and getting it to work.
+I generally dislike a lot about Ubuntu (especially their foray into Amazon partnerships and Unity desktop environment where I even moved to Debian Unstable for a while), but it just works and I am now familiar with the Debian package managers and system. I also like my programs up-to-date and Ubuntu repositories achieve this. I am sure that it is the case with most other systems, but the Ubuntu community is large and the answers to questions are readily available with a quick web search. (Like most, I dream of one day moving to Arch, but that day is far off as I am too busy with work these days to move everything over and getting it to work.)
 
-Ubuntu is the easiest Linux Distribution I have ever found to install on Thinkpads. And, I am very fond of Thinkpads as they are no nonsense laptops that last forever (and are generally resistant to spilling coffee on them). I have owned 7 over the previous two decades, usually multiple at the same time and some for longer than 7 years without replacing anything more than some RAM. Also, a refurbished Thinkpad is within most people's laptop budgets and even a rather old one will run Linux like a dream. Over the previous two decade, I have barely had to adjust a single configuration file to get everything to work.
+Ubuntu is the easiest Linux Distribution I have ever found to install on Thinkpads. And, I am very fond of Thinkpads as they are no nonsense laptops that last forever (and are generally resistant to spilling coffee on them). I have owned 7 over the previous two decades, usually multiple at the same time and some for longer than 7 years without replacing anything more than some RAM. Also, a refurbished Thinkpad is within most people's laptop budgets and even a rather old one will run Linux like a dream. I have barely had to adjust a single configuration file to get everything to work.
 
-(All the examples below for installing are for Ubuntu installed on a PC.)
+All the examples below for installing are for Ubuntu installed on a PC.
 
 I have also had good experiences with [GalliumOS](https://galliumos.org/) (especially on my $100 Acer Chromebook) -- with the same ease of install as Ubuntu on a Thinkpad, it Just Works. A cheap Chromebook is a rather great basic writing machine for travelling and cafe work if you can replace ChromeOS with a full Linux distribution. Even Crouton -- a Linux install that sits next to ChromeOS -- is not terrible.
 
@@ -51,7 +51,7 @@ Linux Distribution
 
 You will start your Linux journey finding a Linux distribution.
 
-A Linux Distro is a pre-packaged installation of the Linux kernel, some necessary [GNU software](https://en.wikipedia.org/wiki/GNU), fancy designed fonts and icons sets, the additional open source programs a regular user needs installed by default (web browser, word processor, email client, picture viewer, music player, etc.), an easy way to install additional software (remember, most of it is free) via centrally maintained software repositories, and a desktop environment that makes it easy to point and click your way around. Think of it like the full OSX package, where OSX is the "distribution" for Macs (though, it is the only one), only better.
+A Linux distro is a pre-packaged installation of the Linux kernel, some necessary [GNU software](https://en.wikipedia.org/wiki/GNU), fancy designed fonts and icons sets, the additional open source programs a regular user needs installed by default (web browser, word processor, email client, picture viewer, music player, etc.), an easy way to install additional software (remember, most of it is free) via centrally maintained software repositories, and a desktop environment that makes it easy to point and click your way around. Think of it like the full OSX package, where OSX is the "distribution" for Macs (though, it is the only one), only better.
 
 Most of the time, people choose their first favourite Linux distribution based on the default desktop environment/window manager it provides. Some examples of more common desktop environments are [Unity](https://unity.ubuntu.com), [Gnome3](https://www.gnome.org/gnome-3/), [KDE (Plasma)](https://www.kde.org/announcements/plasma-5.8.0.php), and [Xfce](https://xfce.org/).
 
@@ -67,7 +67,7 @@ My suggestions of which distributions to start with would include (based on ease
 -   [Linux Mint](https://linuxmint.com/) (Also see [Dumping Windows and installing Linux Mint, in just 10 minutes](http://www.zdnet.com/article/dumping-windows-and-installing-linux-mint-in-just-10-minutes/) for a step-by step guide)
 -   [Fedora](https://getfedora.org/) (Also see [this set-by-step tutorial for Fedora install.](https://www.tecmint.com/fedora-21-workstation-installation/?utm_source%3Dfeedburner&utm_medium%3Dfeed&utm_campaign%3DFeed%253A%2Btecmint%2B%2528Tecmint%253A%2BLinux%2BHowto%2527s%2BGuide%2529)) Fedora is based on a different software package system to Ubuntu and Mint, so the commands outlined in this guide will have to be altered slightly. I believe you would replace "apt" in the commands listed below to "yum", but if that does not work the software store program works very well on Fedora.
 
-The desktop environments of these three are rather different in look, but work in the same way Windows and OSX do. Most everything will seem at least a little familiar. Not so with the following window manager.
+The desktop environments of these three are rather different in look, but work in the same way Windows and OSX do. Most everything will seem at least a little familiar.
 
 And, if you are a regular user of computers, you will find programs that mimic all of the programs you use on OSX and/or Windows. If you do not believe me, try a Live CD/USB for a few hours and see if you really need MSWord to write letters when [LibreOffice](https://www.libreoffice.org/) is works so well, is completely free, and come pre-installed with most Linux distributions. (Also, if you *really* need MSOffice, there is a way to [install that too](https://www.codeweavers.com).)
 
@@ -110,7 +110,9 @@ To install, open a terminal (usually Ctrl+Alt+t or search for "terminal" in the 
 sudo apt install i3-wm i3blocks i3lock i3status rofi compton fonts-font-awesome
 ```
 
-Then add my template configuration files to your main ("Home" in Linux) directory. Linux configures programs via plain text files that usually start with a "." and end in the letters "rc" or ".conf". The default view is that these files hidden since you do not touch them after everything is working smoothly. My configuration files have a few things in it including a Compton configuration file (for smooth graphics acceleration for things like video and smoother scrolling in Firefox). The Compton configuration is in my Github "dotfiles" folder too. Have a quick read through, do some web searches for the code if it does not work as advertised. It should be fairly clear as I have copied the code from others around the web with only slight variations.
+Then add [my template configuration files](https://github.com/citizenspress/dotfiles/) to your main ("Home" in Linux) directory. 
+
+Linux configures programs via plain text files that usually start with a "." and end in the letters "rc" or ".conf". The default view is that these files hidden since you do not touch them after everything is working smoothly. My configuration files have a few things in it including a Compton configuration file (for smooth graphics acceleration for things like video and smoother scrolling in Firefox). The Compton configuration is in my Github "dotfiles" folder too. Have a quick read through, do some web searches for the code if it does not work as advertised. It should be fairly clear as I have copied the code from others around the web with only slight variations.
 
 Learning the i3 commands is easy enough if you use my config files:
 
