@@ -1,3 +1,16 @@
+---
+layout: post
+title: The normal user's guide to using Linux
+description: "The purpose of this document is to outline how I work in Linux. While there are lots of documents online about how coders set-up and tinker with Linux, there are not many for normal users who want to become more proficient in their computer use."
+modified: 2017-09-09
+category: articles
+tags: [howto]
+image:
+comments: false
+share: true
+---
+
+
 Introduction
 ============
 
