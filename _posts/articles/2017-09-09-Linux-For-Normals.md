@@ -163,9 +163,9 @@ My Mutt is set-up to use the following programs:
 sudo apt install mutt urlview w3m mailutils sakura isync elinks pandoc
 ```
 
-![Mutt with a list of emails.](http://unionresearch.ca/liunx/mutt.png)
+![Mutt with a list of emails.](http://unionresearch.ca/linux/mutt.png)
 
-![Mutt with an email open.](http://unionresearch.ca/liunx/mutt2.png)
+![Mutt with an email open.](http://unionresearch.ca/linux/mutt2.png)
 
 Work and personal email accounts.
 ---------------------------------
